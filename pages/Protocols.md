@@ -1,0 +1,3 @@
+- A protocol is only a set of rules standardized to do something, like transporting data.
+- in resumen internet protocols change the behavior of how data is send and received through internet.
+- there is a very important internet protocol that surely you have seen [[HTTP]]

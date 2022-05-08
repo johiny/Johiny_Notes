@@ -1,0 +1,1 @@
+- Some examples of these data structures are  [[Queues]] or [[Stacks]]

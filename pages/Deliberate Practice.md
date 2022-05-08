@@ -1,0 +1,6 @@
+## 1. Have clear and well defined goals
+You need to know what exactly skill you want to improve, don't something general like i want to be better in JavaScript, instead of that say i want to understand and be able to use JavaScript asynchronous functions in a good way.
+- ## 2. 100% focus when doing it
+  When you are practicing something you need to focus in that thing at %100 with you will enter into the flow state and the time will fly, meanwhile your brain are in its max contact with new information, doing this when you finish your study the brain will pass from [[Active Thinking]] to [[Pasive Thinking]] and with new neuron connections will be created in your brain.
+## 3. Attack your weaknesses not your Strengths
+Is easy to fall in the trap of practice something of you are good at, but it only fill you with a feeling oh happiness because you can do something easy, this won't give you good results fast, why? because is easier don't suck in something that master something, it will be better if you are good in various things although you don't master one yet that be a genius in something but suck in all the other skills.

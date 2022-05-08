@@ -1,0 +1,2 @@
+- Simply is a protocol that give an address to every dispositive that is connect to internet, standards ones has a size of 32-bits but nowadays IPv6 reach the size of 128 bits!
+- it sent the data in little data packets to make the network more efficiently too, because [[TCP]] already cut it out in multiple parts.

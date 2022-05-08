@@ -1,0 +1,3 @@
+- en la programación funcional es importante tratar de que las funciones sean puras y deterministas aunque no se pueda siempre, la lógica principal debería estar dividida y cada función debería hacer una tarea especifica.
+- Una función pura es la cual no depende del exterior y si se pasan los mismos parámetros mil veces mil veces tendrá que dar el mismo resultado.
+- Hay una excepción aunque la función este aislada y todo lo que esta utilizando fue pasado por parámetros si uno de estos es un objeto o un array estaría modificando cosas de afuera ya que los objetos/arrays se pasan por referencia y no una copia de estos.

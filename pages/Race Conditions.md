@@ -1,0 +1,1 @@
+- Bad things can happen is multiple people try to do something at the same time in a computer -Malan

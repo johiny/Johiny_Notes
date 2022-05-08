@@ -1,0 +1,22 @@
+- en JavaScript se pueden usar las funciones antes de declararlas gracias al  [[Hoisting]] que mueve las funciones al principio del [[Scope]] pero solo si son declaradas con function.
+- let y const solo tiene un [[Scope]] de bloque!, entonces si es utilizado en global tendrá ese scope, si es declarado en una función tendrá el scope de toda esta, y si esta en un bloque como if solo estará disponible ahi.
+- el valor de this depende de su contexto.
+- las funciones de flecha heredan el valor this.
+- this por defecto es el valor del objeto global, como el objeto window en el navegador.
+- Let's go [[Argumentos]]
+- La [[Asincronía]] es una parte muy importante de JavaScript
+- las funciones asíncronas siempre retornan objetos promesa
+- los módulos son todos aquellos archivos que importan o exportan algo
+- que son los [[Template Literals]]?
+- que es [[Array/Object Destructuring]]?
+- Los extraños pero sorprendentes tres puntos de JavaScript [[Spread Operator]] y [[Rest Operator]].
+- que es [[Optional Change]]?
+- en JavaScript es muy importante la [[Programación Funcional]]
+- que son las [[High Order Functions]]
+- que es el [[Pipeline]]?
+- [[React]]
+- JavaScript puede reaccionar a acciones que suceden sobre los elementos del dom los llamados [[Eventos]]
+- Event Bubbling se genera una cadena de eventos de dentro a hacia afuera, dándole click a un hijo todos los eventos del mismo tipo de los padres se ejecutarían también, es como tocar algo al fondo de un vaso lleno de agua sin mojarte, al final terminaras tocando toda el agua de alrededor.
+- el método stopPropagation de los eventos puede solucionar esto.
+- react usa eventos sintéticos para que funcionen en todos los navegadores.
+-

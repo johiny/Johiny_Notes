@@ -1,0 +1,15 @@
+- The most important thing that SQL does is CRUD
+  collapsed:: true
+	- ![image.png](../assets/image_1647719304934_0.png)
+- SQL is a language for [[Relational Databases]]
+- SQL Templates
+	- INSERT
+	  ![image.png](../assets/image_1647914914171_0.png)
+	- SELECT
+	  ![image.png](../assets/image_1647914969189_0.png)
+	- SELECT (JOIN)
+	  ![image.png](../assets/image_1647917291069_0.png)
+	- UPDATE
+	  ![image.png](../assets/image_1647917640541_0.png)
+	- DELETE
+	  ![image.png](../assets/image_1647917730644_0.png)

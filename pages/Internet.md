@@ -1,0 +1,3 @@
+- it started as a project named Arpanet
+- See the internet : https://www.infrapedia.com/app
+- Computers use two principal [[Protocols]] to intercommunicate themselves [[TCP]] and [[IP]]

@@ -1,0 +1,2 @@
+- if you study #english or any other language for a few hours when you stop your brain will start the passive thinking in that lenguage to try to comprehend it.
+-

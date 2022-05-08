@@ -1,0 +1,4 @@
+- lol you're saying me that i can go to any point in memory only with [[Pointers]] and simple math?!
+- there are point operators in #C like * (indicates that a variable is a pointer) or & (get the address of something)
+-
+-

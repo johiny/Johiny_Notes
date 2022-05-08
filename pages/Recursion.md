@@ -1,0 +1,21 @@
+- The magic of call a function inside another, is like you ask to person in front of you in the cinema about in what row you are but that person doesn't know either so before answering you, that person ask to the next row person the same, but that person doesn't know either so the questions follow and follow again and again until the question reach a person that have no more people in front so surely that person row is the first row so for first time [[Base case]] you find an answer with that this person will answers to the previous row person that ask him and person will answer to the previous person and sequentially the answer will reach you.
+- YO-YO ANALOGY
+	- so like a yo-yo that turn and turn until the end of the string and after that come back to the beginning, the process of [[Recursion]] to get the answer for a problem will "make something" and "make something" until it found the answer or a limit ([[Base case]]) and will come back with that answer!
+	- ![image.png](../assets/image_1643931804304_0.png)
+- See this:
+  collapsed:: true
+	- ![image.png](../assets/image_1643906561165_0.png)
+	- ![image.png](../assets/image_1643913425929_0.png)
+	- ![image.png](../assets/image_1643913524538_0.png)
+	- ![image.png](../assets/image_1643914083090_0.png)
+	- ![image.png](../assets/image_1643914489002_0.png){:height 419, :width 744}
+	-
+	- ![image.png](../assets/image_1643914672976_0.png)
+	-
+	-
+	- ![image.png](../assets/image_1643914828350_0.png)
+	- ![image.png](../assets/image_1643914900325_0.png)
+	- ![image.png](../assets/image_1643922548005_0.png)
+	-
+	-
+-

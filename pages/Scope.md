@@ -1,0 +1,2 @@
+- es el grupo de variables, funciones, etc. Que puedes utilizar en cierta parte del código, las que están en el scope global se pueden utilizar en cualquier parte, mientras las de scope local solo son usables en sus funciones.
+-

@@ -1,0 +1,2 @@
+- I Framework is only a bunch of libraries that some other people write that has its own conventions, recommendations and rules of how to create or do things with it.
+- Like a tool with its manual.

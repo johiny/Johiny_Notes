@@ -1,0 +1,1 @@
+- The principal attribute of CSS is that child elements inherit the properties of its father elements

@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "d9974f42905160e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a135e9e896421b0f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e55a22233970158",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc7eaa238e00aa57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea49377a260302a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b96ee930bc7c942b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9bc515deca579779",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f802a8003c359a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "387b1f5722f12f44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ba4af4e5c786cc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a135e9e896421b0f",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-01-19 11.23.32.excalidraw.md",
+    "journals/2022_01_19.md",
+    "deliberate practice.md",
+    "pages/Pasive Thinking.md",
+    "Johiny's Magna Centrum.md",
+    "pages/How to learn to code.md",
+    "pages/Notational systems.md",
+    "pages/favorites.md",
+    "pages/english.md",
+    "pages/Deliberate Practice.md"
+  ]
+}
