@@ -1,2 +1,2 @@
-# Johiny_Notes
+# Johiny's Notes
 Johiny's Second Brain
