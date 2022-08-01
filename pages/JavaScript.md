@@ -19,4 +19,10 @@
 - Event Bubbling se genera una cadena de eventos de dentro a hacia afuera, dándole click a un hijo todos los eventos del mismo tipo de los padres se ejecutarían también, es como tocar algo al fondo de un vaso lleno de agua sin mojarte, al final terminaras tocando toda el agua de alrededor.
 - el método stopPropagation de los eventos puede solucionar esto.
 - react usa eventos sintéticos para que funcionen en todos los navegadores.
--
+- JavaScript al ser un lenguaje asíncrono seguramente líneas del código que están después de algo que seguro pensabas que se ejecutarían primero se ejecutaran después.
+- ![image.png](../assets/image_1656287959285_0.png)
+  en este ejemplo aunque piensas que la línea 2 seguro se ejecutara primero ya que su intervalo en de 0 ms, sorprendentemente el resultado es este.
+  ![image.png](../assets/image_1656288103283_0.png)
+  debido a que el set interval es un función asíncrona que manda nuestro callback al loop de eventos aunque el tiempo sea 0 entonces mientras entra en el ciclo y se ejecutan las demás funciones que estén en el stack para que ya el event loop la programe para ser ejecutada, es como alguien que siguen en una fila pero se sale un momento para contestar una llamada, pero le cuelgan y cuando vuelve todas las personas detrás de el ya habrán pasado y el estará de ultimas aunque tardo menos de un segundo.
+- JavaScript necesita de un entorno de ejecución para poder hacer cosas con el por fuera del navegador, ósea en todo lado como computadoras personales, servidores, celulares etc lo que se conoce como [[Runtime Environments]]
+- Todo excepto el core de JavaScript como las palabras reservadas son módulos/paquetes/librerías donde cada una tiene su finalidad, la programación es ladrillo sobre ladrillo todo los mas grande estas sostenido sobre incontable trabajo de una gran comunidad por eso se creo [[NPM]] un gestor de paquetes y luego vieron otros como npx o yarn para poder descargar, instalar, mover, compartir todos estos paquetes de codigo.

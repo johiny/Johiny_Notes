@@ -10,4 +10,4 @@ collapsed:: true
 - Oh man you really need to follow with the dalto JavaScript course and learn more about events
 - you have to study a little more about how normal html forms work, an important thing is that when you click submit and you are using the "GET" method all the values that user write down will be in the URL after a "?" with a key: pair format, that doesn't happen with "POST". [[HTTP Methods]] look very interesting.
 - The [[MVC Paradigm]]
--
+- what is exactly a [[CDN]]?

@@ -1,2 +1,2 @@
 - you have to practice it everyday
--
+- English isn't a phonetic language, Spanish has only one sound associated to a symbol/letter conontrary to English that have a few associated to the same symbol/letter

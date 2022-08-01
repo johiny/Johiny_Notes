@@ -1,0 +1,1 @@
+- content delivery network is bunch of servers that save copies of any data in your website to every time a person request it give it to the user faster and without go to your server again and again.

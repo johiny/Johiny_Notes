@@ -1,19 +1,19 @@
 [{:block/name
   "../assets/moonwalking_with_einstein_the_art_and_science_of_remembering_everything_(_pdfdrive_)_1647396793664_0.pdf",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504808,
+  :block/updated-at 1659324504808}
  {:block/name "../assets/record_001_1648694347891_0.mp3",
-  :block/created-at 1651628089828,
-  :block/updated-at 1651628089828}
+  :block/created-at 1659324504804,
+  :block/updated-at 1659324504804}
  {:block/name "../assets/record_002_1648780577445_0.mp3",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504810,
+  :block/updated-at 1659324504810}
  {:block/name "../assets/record_003_1648868988067_0.mp3",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504809,
+  :block/updated-at 1659324504809}
  {:block/name "../assets/record_004_1649181991427_0.mp3",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504808,
+  :block/updated-at 1659324504808}
  {:block/name "2022-01-10",
   :block/created-at 1641772800000,
   :block/updated-at 1641772800000}
@@ -125,6 +125,42 @@
  {:block/name "2022-05-03",
   :block/created-at 1651536000000,
   :block/updated-at 1651536000000}
+ {:block/name "2022-06-01",
+  :block/created-at 1654104647964,
+  :block/updated-at 1654104763651}
+ {:block/name "2022-06-04",
+  :block/created-at 1654369835878,
+  :block/updated-at 1654369973174}
+ {:block/name "2022-06-11",
+  :block/created-at 1654971619093,
+  :block/updated-at 1654972000888}
+ {:block/name "2022-06-14",
+  :block/created-at 1655164800000,
+  :block/updated-at 1655164800000}
+ {:block/name "2022-06-26",
+  :block/created-at 1656201600000,
+  :block/updated-at 1656201600000}
+ {:block/name "2022-07-01",
+  :block/created-at 1656718195473,
+  :block/updated-at 1656718285909}
+ {:block/name "2022-07-09",
+  :block/created-at 1657324800000,
+  :block/updated-at 1657324800000}
+ {:block/name "2022-07-19",
+  :block/created-at 1658277063880,
+  :block/updated-at 1658277122841}
+ {:block/name "2022-07-26",
+  :block/created-at 1658874793976,
+  :block/updated-at 1658882384487}
+ {:block/name "2022-07-28",
+  :block/created-at 1659064339385,
+  :block/updated-at 1659064358986}
+ {:block/name "2022-07-30",
+  :block/created-at 1659139200000,
+  :block/updated-at 1659139200000}
+ {:block/name "2022-07-31",
+  :block/created-at 1659225600000,
+  :block/updated-at 1659225600000}
  {:block/name "a",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
@@ -140,12 +176,15 @@
  {:block/name "aesthetic pomodoro/timer",
   :block/created-at 1642611030683,
   :block/updated-at 1642611030683}
+ {:block/name "api rest",
+  :block/created-at 1658277128464,
+  :block/updated-at 1658278238457}
  {:block/name "argumentos",
   :block/created-at 1650408232907,
   :block/updated-at 1650408305602}
  {:block/name "array",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504808,
+  :block/updated-at 1659324504808}
  {:block/name "array/object destructuring",
   :block/created-at 1650577930218,
   :block/updated-at 1650907140437}
@@ -154,10 +193,19 @@
   :block/updated-at 1644599507958}
  {:block/name "asincronía",
   :block/created-at 1650663243417,
-  :block/updated-at 1650729806673}
+  :block/updated-at 1656717943386}
+ {:block/name "async",
+  :block/created-at 1659324504811,
+  :block/updated-at 1659324504811}
+ {:block/name "async/await",
+  :block/created-at 1656717952185,
+  :block/updated-at 1656719439183}
  {:block/name "b",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
+ {:block/name "backend",
+  :block/created-at 1659324504812,
+  :block/updated-at 1659324504812}
  {:block/name "base case",
   :block/created-at 1644599507957,
   :block/updated-at 1644599507957}
@@ -170,21 +218,27 @@
  {:block/name "bitwise python",
   :block/created-at 1647028966202,
   :block/updated-at 1647122254322}
+ {:block/name "bun",
+  :block/created-at 1659324504810,
+  :block/updated-at 1659324504810}
  {:block/name "c",
   :block/created-at 1642117030283,
   :block/updated-at 1642117030283}
  {:block/name "card",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
+ {:block/name "cdn",
+  :block/created-at 1655242502156,
+  :block/updated-at 1655242566458}
  {:block/name "code",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504809,
+  :block/updated-at 1659324504809}
  {:block/name "computer_science",
   :block/created-at 1642117299108,
   :block/updated-at 1642117299108}
  {:block/name "constructor",
-  :block/created-at 1651628089833,
-  :block/updated-at 1651628089833}
+  :block/created-at 1659324504814,
+  :block/updated-at 1659324504814}
  {:block/name "contents",
   :block/created-at 1642117030283,
   :block/updated-at 1642117030283}
@@ -210,17 +264,17 @@
   :block/created-at 1642117030283,
   :block/updated-at 1642117030283}
  {:block/name "draws",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504810,
+  :block/updated-at 1659324504810}
  {:block/name "draws/2022-03-13-16-52-14.excalidraw",
-  :block/created-at 1651628089828,
-  :block/updated-at 1651628089828}
+  :block/created-at 1659324504804,
+  :block/updated-at 1659324504804}
  {:block/name "english",
   :block/created-at 1642608855261,
-  :block/updated-at 1642608857563}
+  :block/updated-at 1654972226147}
  {:block/name "eventos",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504809,
+  :block/updated-at 1659324504809}
  {:block/name "favorites",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
@@ -234,11 +288,11 @@
   :block/created-at 1644599507956,
   :block/updated-at 1644599507956}
  {:block/name "high order functions",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504810,
+  :block/updated-at 1659324504810}
  {:block/name "hoisting",
-  :block/created-at 1651628089828,
-  :block/updated-at 1651628089828}
+  :block/created-at 1659324504804,
+  :block/updated-at 1659324504804}
  {:block/name "how a filesystem works_",
   :block/created-at 1644599507958,
   :block/updated-at 1644599507958}
@@ -246,14 +300,14 @@
   :block/created-at 1642117299109,
   :block/updated-at 1642610977008}
  {:block/name "html",
-  :block/created-at 1651628089831,
-  :block/updated-at 1651628089831}
+  :block/created-at 1659324504811,
+  :block/updated-at 1659324504811}
  {:block/name "http",
   :block/created-at 1648676204039,
   :block/updated-at 1649016820786}
  {:block/name "http methods",
-  :block/created-at 1651628089832,
-  :block/updated-at 1651628089832}
+  :block/created-at 1659324504812,
+  :block/updated-at 1659324504812}
  {:block/name "in-progress",
   :block/created-at 1642117030283,
   :block/updated-at 1642117030283}
@@ -263,9 +317,12 @@
  {:block/name "ip",
   :block/created-at 1648673747690,
   :block/updated-at 1649014549378}
+ {:block/name "ipa",
+  :block/created-at 1654971731600,
+  :block/updated-at 1654973440466}
  {:block/name "javascript",
   :block/created-at 1650405368139,
-  :block/updated-at 1651615532028}
+  :block/updated-at 1657413174346}
  {:block/name "johiny's magna centrum",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
@@ -279,8 +336,8 @@
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
  {:block/name "lenguajes declarativos e imperativos",
-  :block/created-at 1651628089831,
-  :block/updated-at 1651628089831}
+  :block/created-at 1659324504811,
+  :block/updated-at 1659324504811}
  {:block/name "listas",
   :block/created-at 1647124381250,
   :block/updated-at 1647221164785}
@@ -288,8 +345,11 @@
   :block/created-at 1650922791780,
   :block/updated-at 1650923219515}
  {:block/name "networking",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504810,
+  :block/updated-at 1659324504810}
+ {:block/name "node",
+  :block/created-at 1657409787792,
+  :block/updated-at 1657409999598}
  {:block/name "nodes",
   :block/created-at 1644599507956,
   :block/updated-at 1644599507956}
@@ -299,12 +359,15 @@
  {:block/name "now",
   :block/created-at 1642117030283,
   :block/updated-at 1642117030283}
+ {:block/name "npm",
+  :block/created-at 1659324504808,
+  :block/updated-at 1659324504808}
  {:block/name "object oriented programming",
   :block/created-at 1646430194859,
   :block/updated-at 1646431138289}
  {:block/name "optional change",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504810,
+  :block/updated-at 1659324504810}
  {:block/name "pasive thinking",
   :block/created-at 1642117299108,
   :block/updated-at 1642609893017}
@@ -312,8 +375,8 @@
   :block/created-at 1642117299108,
   :block/updated-at 1642117299108}
  {:block/name "pipeline",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504810,
+  :block/updated-at 1659324504810}
  {:block/name "pointer arithmethic",
   :block/created-at 1642728178608,
   :block/updated-at 1642981027072}
@@ -333,17 +396,20 @@
   :block/created-at 1644599507958,
   :block/updated-at 1644599507958}
  {:block/name "race conditions",
-  :block/created-at 1651628089827,
-  :block/updated-at 1651628089827}
+  :block/created-at 1659324504803,
+  :block/updated-at 1659324504803}
  {:block/name "ram",
   :block/created-at 1642988783411,
   :block/updated-at 1642989141550}
  {:block/name "react",
   :block/created-at 1651269405749,
   :block/updated-at 1651612188738}
+ {:block/name "readme",
+  :block/created-at 1659324504808,
+  :block/updated-at 1659324504808}
  {:block/name "record",
-  :block/created-at 1651628089831,
-  :block/updated-at 1651628089831}
+  :block/created-at 1659324504811,
+  :block/updated-at 1659324504811}
  {:block/name "recursion",
   :block/created-at 1643906289880,
   :block/updated-at 1643931804914}
@@ -354,11 +420,17 @@
   :block/created-at 1647722607748,
   :block/updated-at 1647722642085}
  {:block/name "rest operator",
-  :block/created-at 1651628089830,
-  :block/updated-at 1651628089830}
+  :block/created-at 1659324504808,
+  :block/updated-at 1659324504808}
+ {:block/name "runtime environments",
+  :block/created-at 1657409147877,
+  :block/updated-at 1657409779214}
  {:block/name "scope",
   :block/created-at 1650405654485,
   :block/updated-at 1650405809869}
+ {:block/name "single responsibility principle",
+  :block/created-at 1659324504810,
+  :block/updated-at 1659324504810}
  {:block/name "space repetition",
   :block/created-at 1642117299109,
   :block/updated-at 1642117299109}
@@ -395,6 +467,12 @@
  {:block/name "tries",
   :block/created-at 1644599507957,
   :block/updated-at 1644599507957}
+ {:block/name "typescript",
+  :block/created-at 1659065171745,
+  :block/updated-at 1659322738925}
+ {:block/name "voiced and voiceless sounds",
+  :block/created-at 1654974244425,
+  :block/updated-at 1654974695617}
  {:block/name "wait",
   :block/created-at 1642117030283,
   :block/updated-at 1642117030283}
@@ -403,4 +481,4 @@
   :block/updated-at 1642117030282}
  {:block/name "web development",
   :block/created-at 1648676454714, 
-  :block/updated-at 1650922781022}]
+  :block/updated-at 1655241213814}]

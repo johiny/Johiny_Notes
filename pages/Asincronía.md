@@ -51,3 +51,4 @@
   .then(do_something_with_upwards_result(result))
   .catch(do_this_if_an_error_occur_in_the_chain(error))
   ```
+- Las promesas de [[JavaScript]] se van a una cola distinta que los callbacks llamada Microtask Queue la cual tiene mas prioridad que la cola convencional de los callback, al final estas colas son manejadores de tareas del event loop de JavaScript para poder especificar cuando ejecutar uno u otra esperando lo que haya que esperar pero sin bloquear todo el proceso básicamente la definición de la asincronía, las promesas reciben 2 callback 1 que se ejecutara si todo sale bien y el otro si algo sale mal, entonces lo que hace [[Async/Await]] es crear otra capa de abstracción, si lo vemos bien las promesas son una capa de abstracción de los callback y el async otra capa sobre estas.

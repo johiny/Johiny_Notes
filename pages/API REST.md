@@ -1,0 +1,2 @@
+- Lo mas importante parece ser que para cada entidad u objeto en nuestra base de datos deberíamos tener una ruta/endpoint, id específicos para entrar fácilmente en cada registro de esa entidad y en cada ruta se debería poder ejercer todas las acciones de un crud si se tiene acceso.
+- los endpoints son básicamente las rutas del backend, es como enviar una carta a una dirección donde saben que venden pan entonces te enviaran el pan de vuelta, no enviarías una petición de pan a una ferretería.
