@@ -1,0 +1,13 @@
+- Verga nunca pensé que las matemáticas tuvieran parte de caligrafía, el lenguaje algebraico tiene unas reglas que justamente parecen caligrafia.
+- 1. Cada etapa de la operación debe estar precedida por un = para expresar equivalencia y como una especie de orden.
+  ![image.png](../assets/image_1665191905247_0.png)
+- 2.Si después del símbolo igual sigue una fracción esta tiene que estar justo en el medio para evitar confusion.
+  ![image.png](../assets/image_1665193487400_0.png)
+- 3.El numero 1 puede omitirse cuando esta multiplicando a otro numero o siendo usado como exponente ya que literalmente no afecta el valor de nada.
+  ![image.png](../assets/image_1665193682778_0.png)
+- 4.El símbolo de multiplicación se puede omitir como has visto en los ejemplos anteriores, cuando una expresión esta al lado de otra sin ningún símbolo entre medias se da por hecho que están multiplicándose.
+  ![image.png](../assets/image_1665194564699_0.png)
+- collapsed:: true
+  5. Expresiones en lenguaje mas convencionales como el español o el ingles se pueden pasar a lenguaje algebraico con una manera bastante genial mira estos ejemplos:
+	- ![image.png](../assets/image_1665252367382_0.png) ![image.png](../assets/image_1665252373164_0.png)
+-

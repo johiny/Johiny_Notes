@@ -1,0 +1,1 @@
+- es este tipo se trata de utilizar los datos que están disponibles y muchísimas e increíbles técnicas matemáticas para predecir el futuro, lo que podría pasar a partir de lo que ha pasado!.

@@ -1,0 +1,1 @@
+- las directivas son todos aquellos atributos o elementos html extra que angular pone sobre la mesa para manipular el [[DOM]], hacer [[Data Binding]] o renderización condicional, todos aquellos extraños atributos como ngmodel, *ngIf, etc, o elementos como el ng-template son todas directivas para hacer cosas más fácil que con JavaScript normal.

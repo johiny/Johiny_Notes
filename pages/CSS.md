@@ -1,1 +1,4 @@
 - The principal attribute of CSS is that child elements inherit the properties of its father elements
+- ok so let's start with [[CSS Units]]
+- CSS is natively responsive so if it is being not responsive surely is because you make something anti-responsive, you write something with permanent paint instead of water paint.
+- looks like use height is bad in general avoid it, it's better to fill your box/element with other things like [[Padding]].

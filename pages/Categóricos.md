@@ -1,0 +1,4 @@
+- estos tipos de datos en esencia son cualquier cosa que se pueda enlistar, como el genero de una persona, el genero de una pelicula, el tipo de animal, etc.
+- estos a su vez tienen 2 categorías:
+- ordinal: si los valores comparten algún tipo de orden
+- nominal: si no comparten ningún orden

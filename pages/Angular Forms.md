@@ -1,0 +1,2 @@
+- primera regla los reactive forms son 72 veces mejores que los template forms o al menos eso dicen por ahi jajaja.
+- la pieza fundamental de reactive forms es una instancia de FormControl la cual tiene todo para manejar un input de modo pro, guarda su valor, tiene una propiedad para comprobar si es valido o no, y hasta tiene un observable que es literal como un listener para hacer algo cada vez que cambien su valor.

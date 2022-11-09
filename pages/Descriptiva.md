@@ -1,0 +1,4 @@
+- Este tipo se central en resumir y analizar los datos del pasado hasta el momento actual para ver cualquier tipo de patron, tendencia, curiosidad o cualquier tipo de dato que podamos conseguir de analizar el pasado.
+- este tipo de estadística como describía al principio puede llevar a conjeturas apresuradas y erróneas o hasta usar datos que se pueden interpretar de muchas formas a nuestro favor interpretándolos de la forma en la que nos conviene o sustenta nuestro argumento lo que lleva a la estadística una rama de la matemática donde todo tendría que ser muy exacto y ser hechos innegables a una paradoja donde depende bastante de la interpretación subjetiva de la persona que esta analizando los datos de que es lo dicen realmente.
+- Parecer ser que los [[Estadísticos Descriptivos]] son muy importantes debería darles una definición clara.
+- Los tipos de datos en [[Estadística]] se dividen en 2 grandes clases [[Categóricos]] y [[Numéricos]]

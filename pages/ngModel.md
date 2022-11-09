@@ -1,0 +1,2 @@
+- ngModel sincroniza el valor de  un input con una variable que hayamos definido en nuestro componente ts.
+- esto facilita mucho las cosas pero no es lo único que hace ngmodel ya que también tiene una gran funcionalidad en cuanto a validaciones en inputs o formulario no en vano viene del modulo FormsModule.

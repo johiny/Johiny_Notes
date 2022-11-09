@@ -161,6 +161,63 @@
  {:block/name "2022-07-31",
   :block/created-at 1659225600000,
   :block/updated-at 1659225600000}
+ {:block/name "2022-08-01",
+  :block/created-at 1659375724899,
+  :block/updated-at 1659375724899}
+ {:block/name "2022-08-02",
+  :block/created-at 1659456543249,
+  :block/updated-at 1659456543249}
+ {:block/name "2022-08-08",
+  :block/created-at 1660090271527,
+  :block/updated-at 1660090271527}
+ {:block/name "2022-08-09",
+  :block/created-at 1660090271726,
+  :block/updated-at 1660090271726}
+ {:block/name "2022-08-11",
+  :block/created-at 1660244109281,
+  :block/updated-at 1660244109281}
+ {:block/name "2022-08-17",
+  :block/created-at 1660776683534,
+  :block/updated-at 1660778451589}
+ {:block/name "2022-08-19",
+  :block/created-at 1660956867921,
+  :block/updated-at 1660956928014}
+ {:block/name "2022-08-29",
+  :block/created-at 1661817885195,
+  :block/updated-at 1661817885195}
+ {:block/name "2022-09-02",
+  :block/created-at 1662152087503,
+  :block/updated-at 1662210675449}
+ {:block/name "2022-09-03",
+  :block/created-at 1662210399000,
+  :block/updated-at 1662210399000}
+ {:block/name "2022-09-04",
+  :block/created-at 1662314591242,
+  :block/updated-at 1662314591242}
+ {:block/name "2022-09-06",
+  :block/created-at 1662483192795,
+  :block/updated-at 1662483192795}
+ {:block/name "2022-09-23",
+  :block/created-at 1663970731558,
+  :block/updated-at 1663971145038}
+ {:block/name "2022-10-06",
+  :block/created-at 1665107453470,
+  :block/updated-at 1665107516011}
+ {:block/name "2022-10-07",
+  :block/created-at 1665166635045,
+  :block/updated-at 1665176299237}
+ {:block/name "2022-10-08",
+  :block/created-at 1665249744928,
+  :block/updated-at 1665249744928}
+ {:block/name "2022-10-24",
+  :block/created-at 1666651798866,
+  :block/updated-at 1666651798866}
+ {:block/name "2022-11-07",
+  :block/created-at 1667873524011,
+  :block/updated-at 1667875554580}
+ {:block/name "2022-11-08",
+  :block/created-at 1667933654814,
+  :block/updated-at 1667933654814}
  {:block/name "a",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
@@ -176,6 +233,15 @@
  {:block/name "aesthetic pomodoro/timer",
   :block/created-at 1642611030683,
   :block/updated-at 1642611030683}
+ {:block/name "algebra",
+  :block/created-at 1665107514210,
+  :block/updated-at 1665190877874}
+ {:block/name "angular",
+  :block/created-at 1660956928012,
+  :block/updated-at 1662335543955}
+ {:block/name "angular forms",
+  :block/created-at 1662335543954,
+  :block/updated-at 1662483403328}
  {:block/name "api rest",
   :block/created-at 1658277128464,
   :block/updated-at 1658278238457}
@@ -224,9 +290,18 @@
  {:block/name "c",
   :block/created-at 1642117030283,
   :block/updated-at 1642117030283}
+ {:block/name "canceled",
+  :block/created-at 1659412223729,
+  :block/updated-at 1659412223729}
+ {:block/name "cancelled",
+  :block/created-at 1659412223729,
+  :block/updated-at 1659412223729}
  {:block/name "card",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
+ {:block/name "categóricos",
+  :block/created-at 1667960196323,
+  :block/updated-at 1667960196323}
  {:block/name "cdn",
   :block/created-at 1655242502156,
   :block/updated-at 1655242566458}
@@ -244,7 +319,16 @@
   :block/updated-at 1642117030283}
  {:block/name "css",
   :block/created-at 1648850240364,
-  :block/updated-at 1648850562605}
+  :block/updated-at 1660244233757}
+ {:block/name "css units",
+  :block/created-at 1660090379142,
+  :block/updated-at 1660101919204}
+ {:block/name "data binding",
+  :block/created-at 1661823072028,
+  :block/updated-at 1662152616804}
+ {:block/name "data science",
+  :block/created-at 1667960196544,
+  :block/updated-at 1667960196544}
  {:block/name "data types",
   :block/created-at 1644599507958,
   :block/updated-at 1644599507958}
@@ -254,6 +338,12 @@
  {:block/name "deliberate practice",
   :block/created-at 1642610830150,
   :block/updated-at 1646686507097}
+ {:block/name "descriptiva",
+  :block/created-at 1667875700655,
+  :block/updated-at 1667940963232}
+ {:block/name "directivas",
+  :block/created-at 1662155116539,
+  :block/updated-at 1662155728060}
  {:block/name "doing",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
@@ -269,9 +359,18 @@
  {:block/name "draws/2022-03-13-16-52-14.excalidraw",
   :block/created-at 1659324504804,
   :block/updated-at 1659324504804}
+ {:block/name "dto",
+  :block/created-at 1660090271986,
+  :block/updated-at 1660090271986}
  {:block/name "english",
   :block/created-at 1642608855261,
   :block/updated-at 1654972226147}
+ {:block/name "estadística",
+  :block/created-at 1667875554578,
+  :block/updated-at 1667938867648}
+ {:block/name "estadísticos descriptivos",
+  :block/created-at 1667960196590,
+  :block/updated-at 1667960196590}
  {:block/name "eventos",
   :block/created-at 1659324504809,
   :block/updated-at 1659324504809}
@@ -281,6 +380,9 @@
  {:block/name "framework",
   :block/created-at 1650918170427,
   :block/updated-at 1650918342375}
+ {:block/name "future",
+  :block/created-at 1660776697856,
+  :block/updated-at 1660776697856}
  {:block/name "hash tables",
   :block/created-at 1644599507957,
   :block/updated-at 1644599507957}
@@ -311,6 +413,9 @@
  {:block/name "in-progress",
   :block/created-at 1642117030283,
   :block/updated-at 1642117030283}
+ {:block/name "inferencial",
+  :block/created-at 1667875704034,
+  :block/updated-at 1667876159888}
  {:block/name "internet",
   :block/created-at 1648667372418,
   :block/updated-at 1648673001854}
@@ -323,6 +428,9 @@
  {:block/name "javascript",
   :block/created-at 1650405368139,
   :block/updated-at 1657413174346}
+ {:block/name "job",
+  :block/created-at 1660778093814,
+  :block/updated-at 1660778093814}
  {:block/name "johiny's magna centrum",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
@@ -335,18 +443,39 @@
  {:block/name "later",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
+ {:block/name "lenguaje algebraico",
+  :block/created-at 1665190877872,
+  :block/updated-at 1665252958198}
  {:block/name "lenguajes declarativos e imperativos",
   :block/created-at 1659324504811,
   :block/updated-at 1659324504811}
+ {:block/name "leyes matemáticas",
+  :block/created-at 1665167585109,
+  :block/updated-at 1665179657763}
  {:block/name "listas",
   :block/created-at 1647124381250,
   :block/updated-at 1647221164785}
+ {:block/name "matemáticas",
+  :block/created-at 1665176299236,
+  :block/updated-at 1665176299236}
+ {:block/name "medidas de dispersion",
+  :block/created-at 1667960196585,
+  :block/updated-at 1667960196585}
+ {:block/name "medidas de tendencia central",
+  :block/created-at 1667960196588,
+  :block/updated-at 1667961379902}
+ {:block/name "middlewares",
+  :block/created-at 1660090271522,
+  :block/updated-at 1660090271522}
  {:block/name "mvc paradigm",
   :block/created-at 1650922791780,
   :block/updated-at 1650923219515}
  {:block/name "networking",
   :block/created-at 1659324504810,
   :block/updated-at 1659324504810}
+ {:block/name "ngmodel",
+  :block/created-at 1662152586914,
+  :block/updated-at 1662154674666}
  {:block/name "node",
   :block/created-at 1657409787792,
   :block/updated-at 1657409999598}
@@ -362,12 +491,18 @@
  {:block/name "npm",
   :block/created-at 1659324504808,
   :block/updated-at 1659324504808}
+ {:block/name "numéricos",
+  :block/created-at 1667960196814,
+  :block/updated-at 1667960196814}
  {:block/name "object oriented programming",
   :block/created-at 1646430194859,
   :block/updated-at 1646431138289}
  {:block/name "optional change",
   :block/created-at 1659324504810,
   :block/updated-at 1659324504810}
+ {:block/name "padding",
+  :block/created-at 1660244233753,
+  :block/updated-at 1660245483451}
  {:block/name "pasive thinking",
   :block/created-at 1642117299108,
   :block/updated-at 1642609893017}
@@ -377,6 +512,9 @@
  {:block/name "pipeline",
   :block/created-at 1659324504810,
   :block/updated-at 1659324504810}
+ {:block/name "pipes",
+  :block/created-at 1660090271982,
+  :block/updated-at 1660090271982}
  {:block/name "pointer arithmethic",
   :block/created-at 1642728178608,
   :block/updated-at 1642981027072}
@@ -410,6 +548,9 @@
  {:block/name "record",
   :block/created-at 1659324504811,
   :block/updated-at 1659324504811}
+ {:block/name "recuerda",
+  :block/created-at 1665178544014,
+  :block/updated-at 1665178544014}
  {:block/name "recursion",
   :block/created-at 1643906289880,
   :block/updated-at 1643931804914}
@@ -469,7 +610,7 @@
   :block/updated-at 1644599507957}
  {:block/name "typescript",
   :block/created-at 1659065171745,
-  :block/updated-at 1659322738925}
+  :block/updated-at 1659459418366}
  {:block/name "voiced and voiceless sounds",
   :block/created-at 1654974244425,
   :block/updated-at 1654974695617}
