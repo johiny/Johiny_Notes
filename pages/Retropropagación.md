@@ -1,0 +1,1 @@
+- Este algoritmo trajo una revolución al area de la IA, ya que antes se escogían los pesos de las entradas de forma aleatoria hasta que se veía un resultado satisfactorio que compaginaba con la realidad pero gracias al la retro propagación eso cambio abismalmente.

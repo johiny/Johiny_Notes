@@ -1,0 +1,3 @@
+- Ya entrando en profundidad esta función agarra los datos de entrada hace algo con ellos y al final decide si la información pasa a la siguiente neurona o en el caso de de ser la ultima de darnos el resultado de lo que el dimos a partir de si supera o no un umbral, aunque esto ultimo se puede volver mucho mas complejo.
+- Cuando le decimos se devuelva o no algo a partir del procesamiento de los datos estamos usando una función matemática llamada [[Heavside]]
+- Pero que pasa si queremos algo mas complejo como saber que tanto se aproximan los datos que entraron a la neurona al umbral/bias que definimos no queremos solo un no o si, 0 o 1, sino como una especie de porcentaje para ello podremos utilizar la función matemática [[Sigmoide]]

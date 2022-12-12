@@ -1,0 +1,1 @@
+- que es exactamente el bias? y porque se suma a la suma ponderada de las entradas de la neurona? tendrás que estudiar mas sobre [[Inecuaciones]] y el bias mas a fondo.

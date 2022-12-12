@@ -1,20 +1,4 @@
-[{:block/name
-  "../assets/moonwalking_with_einstein_the_art_and_science_of_remembering_everything_(_pdfdrive_)_1647396793664_0.pdf",
-  :block/created-at 1659324504808,
-  :block/updated-at 1659324504808}
- {:block/name "../assets/record_001_1648694347891_0.mp3",
-  :block/created-at 1659324504804,
-  :block/updated-at 1659324504804}
- {:block/name "../assets/record_002_1648780577445_0.mp3",
-  :block/created-at 1659324504810,
-  :block/updated-at 1659324504810}
- {:block/name "../assets/record_003_1648868988067_0.mp3",
-  :block/created-at 1659324504809,
-  :block/updated-at 1659324504809}
- {:block/name "../assets/record_004_1649181991427_0.mp3",
-  :block/created-at 1659324504808,
-  :block/updated-at 1659324504808}
- {:block/name "2022-01-10",
+[{:block/name "2022-01-10",
   :block/created-at 1641772800000,
   :block/updated-at 1641772800000}
  {:block/name "2022-01-13",
@@ -53,15 +37,9 @@
  {:block/name "2022-02-07",
   :block/created-at 1644246847980,
   :block/updated-at 1644285249350}
- {:block/name "2022-02-11",
-  :block/created-at 1644537600000,
-  :block/updated-at 1644537600000}
  {:block/name "2022-03-04",
   :block/created-at 1646430096438,
   :block/updated-at 1646430178004}
- {:block/name "2022-03-07",
-  :block/created-at 1646611200000,
-  :block/updated-at 1646611200000}
  {:block/name "2022-03-11",
   :block/created-at 1647025253141,
   :block/updated-at 1647028958345}
@@ -80,9 +58,6 @@
  {:block/name "2022-03-21",
   :block/created-at 1647820800000,
   :block/updated-at 1647820800000}
- {:block/name "2022-03-22",
-  :block/created-at 1647907200000,
-  :block/updated-at 1647907200000}
  {:block/name "2022-03-30",
   :block/created-at 1648666864060,
   :block/updated-at 1648694400833}
@@ -95,24 +70,12 @@
  {:block/name "2022-04-03",
   :block/created-at 1649010863196,
   :block/updated-at 1649012504734}
- {:block/name "2022-04-04",
-  :block/created-at 1649030400000,
-  :block/updated-at 1649030400000}
  {:block/name "2022-04-05",
   :block/created-at 1649181942817,
   :block/updated-at 1649182013140}
- {:block/name "2022-04-19",
-  :block/created-at 1650326400000,
-  :block/updated-at 1650326400000}
  {:block/name "2022-04-21",
   :block/created-at 1650580077483,
   :block/updated-at 1650580233492}
- {:block/name "2022-04-22",
-  :block/created-at 1650585600000,
-  :block/updated-at 1650585600000}
- {:block/name "2022-04-23",
-  :block/created-at 1650672000000,
-  :block/updated-at 1650672000000}
  {:block/name "2022-04-25",
   :block/created-at 1650918152709,
   :block/updated-at 1650940589988}
@@ -122,9 +85,6 @@
  {:block/name "2022-04-29",
   :block/created-at 1651266110042,
   :block/updated-at 1651266158594}
- {:block/name "2022-05-03",
-  :block/created-at 1651536000000,
-  :block/updated-at 1651536000000}
  {:block/name "2022-06-01",
   :block/created-at 1654104647964,
   :block/updated-at 1654104763651}
@@ -134,18 +94,9 @@
  {:block/name "2022-06-11",
   :block/created-at 1654971619093,
   :block/updated-at 1654972000888}
- {:block/name "2022-06-14",
-  :block/created-at 1655164800000,
-  :block/updated-at 1655164800000}
- {:block/name "2022-06-26",
-  :block/created-at 1656201600000,
-  :block/updated-at 1656201600000}
  {:block/name "2022-07-01",
   :block/created-at 1656718195473,
   :block/updated-at 1656718285909}
- {:block/name "2022-07-09",
-  :block/created-at 1657324800000,
-  :block/updated-at 1657324800000}
  {:block/name "2022-07-19",
   :block/created-at 1658277063880,
   :block/updated-at 1658277122841}
@@ -155,48 +106,18 @@
  {:block/name "2022-07-28",
   :block/created-at 1659064339385,
   :block/updated-at 1659064358986}
- {:block/name "2022-07-30",
-  :block/created-at 1659139200000,
-  :block/updated-at 1659139200000}
- {:block/name "2022-07-31",
-  :block/created-at 1659225600000,
-  :block/updated-at 1659225600000}
- {:block/name "2022-08-01",
-  :block/created-at 1659375724899,
-  :block/updated-at 1659375724899}
- {:block/name "2022-08-02",
-  :block/created-at 1659456543249,
-  :block/updated-at 1659456543249}
  {:block/name "2022-08-08",
   :block/created-at 1660090271527,
   :block/updated-at 1660090271527}
- {:block/name "2022-08-09",
-  :block/created-at 1660090271726,
-  :block/updated-at 1660090271726}
- {:block/name "2022-08-11",
-  :block/created-at 1660244109281,
-  :block/updated-at 1660244109281}
  {:block/name "2022-08-17",
   :block/created-at 1660776683534,
   :block/updated-at 1660778451589}
  {:block/name "2022-08-19",
   :block/created-at 1660956867921,
   :block/updated-at 1660956928014}
- {:block/name "2022-08-29",
-  :block/created-at 1661817885195,
-  :block/updated-at 1661817885195}
  {:block/name "2022-09-02",
   :block/created-at 1662152087503,
   :block/updated-at 1662210675449}
- {:block/name "2022-09-03",
-  :block/created-at 1662210399000,
-  :block/updated-at 1662210399000}
- {:block/name "2022-09-04",
-  :block/created-at 1662314591242,
-  :block/updated-at 1662314591242}
- {:block/name "2022-09-06",
-  :block/created-at 1662483192795,
-  :block/updated-at 1662483192795}
  {:block/name "2022-09-23",
   :block/created-at 1663970731558,
   :block/updated-at 1663971145038}
@@ -206,9 +127,6 @@
  {:block/name "2022-10-07",
   :block/created-at 1665166635045,
   :block/updated-at 1665176299237}
- {:block/name "2022-10-08",
-  :block/created-at 1665249744928,
-  :block/updated-at 1665249744928}
  {:block/name "2022-10-24",
   :block/created-at 1666651798866,
   :block/updated-at 1666651798866}
@@ -218,6 +136,18 @@
  {:block/name "2022-11-08",
   :block/created-at 1667933654814,
   :block/updated-at 1667933654814}
+ {:block/name "2022-11-09",
+  :block/created-at 1668004826084,
+  :block/updated-at 1668004826084}
+ {:block/name "2022-11-14",
+  :block/created-at 1668478090230,
+  :block/updated-at 1668478090230}
+ {:block/name "2022-11-15",
+  :block/created-at 1668526605535,
+  :block/updated-at 1668534099221}
+ {:block/name "2022-11-17",
+  :block/created-at 1668709161556,
+  :block/updated-at 1668709161556}
  {:block/name "a",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
@@ -341,9 +271,15 @@
  {:block/name "descriptiva",
   :block/created-at 1667875700655,
   :block/updated-at 1667940963232}
+ {:block/name "desviación estándar",
+  :block/created-at 1668028960413,
+  :block/updated-at 1668128795995}
  {:block/name "directivas",
   :block/created-at 1662155116539,
   :block/updated-at 1662155728060}
+ {:block/name "distribuciones",
+  :block/created-at 1668478092028,
+  :block/updated-at 1668478092028}
  {:block/name "doing",
   :block/created-at 1642117030282,
   :block/updated-at 1642117030282}
@@ -353,12 +289,6 @@
  {:block/name "done",
   :block/created-at 1642117030283,
   :block/updated-at 1642117030283}
- {:block/name "draws",
-  :block/created-at 1659324504810,
-  :block/updated-at 1659324504810}
- {:block/name "draws/2022-03-13-16-52-14.excalidraw",
-  :block/created-at 1659324504804,
-  :block/updated-at 1659324504804}
  {:block/name "dto",
   :block/created-at 1660090271986,
   :block/updated-at 1660090271986}
@@ -370,7 +300,7 @@
   :block/updated-at 1667938867648}
  {:block/name "estadísticos descriptivos",
   :block/created-at 1667960196590,
-  :block/updated-at 1667960196590}
+  :block/updated-at 1668130837761}
  {:block/name "eventos",
   :block/created-at 1659324504809,
   :block/updated-at 1659324504809}
@@ -392,12 +322,15 @@
  {:block/name "high order functions",
   :block/created-at 1659324504810,
   :block/updated-at 1659324504810}
+ {:block/name "histograma",
+  :block/created-at 1668019550652,
+  :block/updated-at 1668019892363}
  {:block/name "hoisting",
   :block/created-at 1659324504804,
   :block/updated-at 1659324504804}
- {:block/name "how a filesystem works_",
-  :block/created-at 1644599507958,
-  :block/updated-at 1644599507958}
+ {:block/name "how a filesystem works?",
+  :block/created-at 1667962175152,
+  :block/updated-at 1667962175152}
  {:block/name "how to learn to code",
   :block/created-at 1642117299109,
   :block/updated-at 1642610977008}
@@ -458,15 +391,21 @@
  {:block/name "matemáticas",
   :block/created-at 1665176299236,
   :block/updated-at 1665176299236}
+ {:block/name "mediana",
+  :block/created-at 1667963043225,
+  :block/updated-at 1668033718917}
  {:block/name "medidas de dispersion",
   :block/created-at 1667960196585,
-  :block/updated-at 1667960196585}
+  :block/updated-at 1668028960417}
  {:block/name "medidas de tendencia central",
   :block/created-at 1667960196588,
-  :block/updated-at 1667961379902}
+  :block/updated-at 1668025792588}
  {:block/name "middlewares",
   :block/created-at 1660090271522,
   :block/updated-at 1660090271522}
+ {:block/name "moda",
+  :block/created-at 1667963047182,
+  :block/updated-at 1668019558198}
  {:block/name "mvc paradigm",
   :block/created-at 1650922791780,
   :block/updated-at 1650923219515}
@@ -524,6 +463,9 @@
  {:block/name "programación funcional",
   :block/created-at 1650583631859,
   :block/updated-at 1650585393519}
+ {:block/name "promedio",
+  :block/created-at 1667963030752,
+  :block/updated-at 1668007645340}
  {:block/name "protocols",
   :block/created-at 1648673052624,
   :block/updated-at 1648676200053}
@@ -539,6 +481,9 @@
  {:block/name "ram",
   :block/created-at 1642988783411,
   :block/updated-at 1642989141550}
+ {:block/name "rango y rango intercuartil",
+  :block/created-at 1668028960416,
+  :block/updated-at 1668032668759}
  {:block/name "react",
   :block/created-at 1651269405749,
   :block/updated-at 1651612188738}
@@ -590,6 +535,12 @@
  {:block/name "stacks",
   :block/created-at 1644599507958,
   :block/updated-at 1644599507958}
+ {:block/name "sucesión",
+  :block/created-at 1668008604751,
+  :block/updated-at 1668013541562}
+ {:block/name "sumatoria",
+  :block/created-at 1668007602020,
+  :block/updated-at 1668014665559}
  {:block/name "tcp",
   :block/created-at 1648674193506,
   :block/updated-at 1649014269763}

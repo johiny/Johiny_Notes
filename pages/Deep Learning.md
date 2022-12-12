@@ -1,0 +1,5 @@
+- Si estas leyendo esto en el futuro que sepas que se te chamusco la cabeza en la primera clase espero que reflexiones y veas donde estas ahora.
+- El deep learning es un tipo de [[Machine Learning]] en cual se utilizan multiples capas de unidades de procesamiento/neuronas artificiales para crear un modelo que aprenda algo.
+- pero que es una [[Neurona Artificial]]?
+- una [[Función de Activación]] proveniente de las funciones [[Matemáticas]] es aquello que se encarga de hacer algo dentro de la neurona artificial.
+- Si vienes de los rabbit holes seguramente estarás un poco agobiado de tanta complejidad,  pero eso es normal es mucha complejidad son cosas que personas increíblemente inteligentes y dedicadas llevan estudiando décadas, la combinación de matemáticas, con fenómenos naturales, ciencias computacionales y mas cosas que seguramente no estoy viendo ahora mismo, es que piénsalo 2 veces! estas ante lo mas cerca que has estado de la ciencia ficción, de algo que tiene el potencial de cambiar el mundo como algo así va a ser facil?!

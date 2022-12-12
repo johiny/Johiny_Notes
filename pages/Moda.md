@@ -1,0 +1,7 @@
+- Esta medida representa el valor que mas se repite en un conjunto de datos, así podrás saber que es lo mas común entre cualquier cantidad de datos!
+- Por supuesto esta medida seria difícil de aplicar cuando los valores son variables continuas ya que pueden ser muchos valores, muy complejos y muy diferentes entre si, como las medidas de un pez, pueden que hayan peces que aunque se parezcan mucho a otros en tamaño, puede que sean mas pequeño o grande por milímetros lo que ya lo hace un valor diferente, ahora imagina calcular que valores se repiten entre miles o millones de valores diferentes, puede que lo hagas y al final el conteo de los que mas se repiten sea de solo 3 lo que en realidad no te dice nada sobre los datos ya que podría ser una simple coincidencia y si hubieras gastado tiempo o procesamiento computacional en vano.
+  Debido ha esto no se acostumbra a calcular la moda cuando se está trabajando con valores continuos.
+- La moda se acostumbra a graficarse con un diagrama de barras:
+- ![Estadística básica: ¿Qué es un gráfico de barras?](https://media.gcflearnfree.org/content/61d5c1f6c4da77185ca9f226_01_05_2022/Asi%CC%81-se-crea-un-diagrama-de-barras.png)
+- Pero que podemos hacer si queremos tener una grafica parecida pero con valores numéricos continuos?
+- Para eso podemos usar la evolución de los gráficos de frecuencia y una moda mas avanzada por así decirlo un [[Histograma]]

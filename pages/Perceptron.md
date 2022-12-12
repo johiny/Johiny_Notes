@@ -1,0 +1,2 @@
+- Una neurona artificial la cual innovó incorporando la función [[Sigmoide]] en su funcionamiento y además empezó ha utilizar el [[Bias]], trajo muchos avances y dejo atrás la salida binaria que tenían las neuronas primitivas.
+- Gracias a estas mejoras el perceptron fue capaz de comenzar a usar un algoritmo llamado [[Retropropagación]]

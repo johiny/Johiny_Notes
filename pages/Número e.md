@@ -1,0 +1,1 @@
+- el numero e es uno de los números fundamentales de las matemáticas seguramente lo entenderé mas con el tiempo pero por ahora se podría decir que el proporciona una base constante de aumentó o diminución de cualquier cosa a la par que establece un limite ha estas, seria buena idea estudiar mas acerca de los limites en las matemáticas y sus aplicaciones.
