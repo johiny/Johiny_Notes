@@ -1,0 +1,2 @@
+- Probablemente necesites mas [[Matemáticas]] para entender bien esto.
+- ![image.png](../assets/image_1671056443375_0.png)
