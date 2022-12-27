@@ -9,4 +9,5 @@
 - Si la precision no es muy alta pueden ser muchísimos factores, el peso 2 necesita ser se menor o mayor? eso puede deberse a que nos estamos pasando con el peso o nos esta faltando en algún lugar, la precision solo mide que tanto nuestra predicción se parece a la realidad que estábamos esperando, no nos dice donde puede estar el error o desajuste que esta causando ese gap/ brecha entre el valor conseguido y el valor esperado.
 - Comencemos a dividir por partes, primero para medir la precisión podríamos mejor medir el error de alguna manera, un algoritmo, formula etc.
 - Pero para sacar mas provecho al valor que calculemos el error podríamos volverlo una [[Función Matemática]] para poder utilizar mas técnicas matemáticas avanzadas.
-- Al error ser una función podríamos pasar a la fase de [[Optimización de un error]] donde se utiliza [[Calculo Diferencial]] si lo estas escuchando bien ese calculo que solo has escuchado en videos y curriculums de universidad!.
+- Al error ser una función podríamos pasar a la fase de [[Optimización de un error]] donde se utiliza [[Calculo Diferencial]] si lo estas escuchando bien ese calculo que solo has escuchado en videos y currículos de universidad!.
+- Pueden haber varios tipos de errores como el [[Error Cuadrático Medio - MSE]] o el [[Log Loss]] seguramente los entiendas mejor con el tiempo.

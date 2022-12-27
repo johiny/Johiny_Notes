@@ -1,0 +1,1 @@
+- Una transformación no lineal no es mas que hacer que una distribución no normal se vuelve mas normal de nuevo con un montón de [[Matemáticas]] por detrás, definitivamente tienes que estudiar mas matemáticas para poder entender los gráficos funciones, [[Distribuciones]] y demás cosas tan fascinantes que componen la [[Data Science]]

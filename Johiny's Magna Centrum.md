@@ -1,7 +1,1 @@
-# Hello
-
-
-Why C is faster than other languages?
-	fghfhfghfg
-
-==FIRST==
+- ![quieres romper el ciclo.png](./assets/quieres_romper_el_ciclo_1672108388335_0.png){:height 1080, :width 1920}
