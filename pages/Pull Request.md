@@ -1,0 +1,2 @@
+- Un pull request no es más que un paso intermedio entre un merge, esto ayuda a que una persona o varias puedan revisar los cambios que se quieren fusionar con la rama antes de hacerlo, gracias ha este sistema trabajar en proyectos open source es bastante fácil.
+  ![Preview](https://cdn.dribbble.com/users/138252/screenshots/2389144/github_dri.png)

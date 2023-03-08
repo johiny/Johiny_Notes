@@ -1,0 +1,4 @@
+- Se podría decir que la correlación es la desviación o variación entre una variable y otra.
+- Gracias a estas mediciones se puede llegar a ver estadísticamente si una variable tiene relación con otra aunque esto no significa que sea causa y efecto por eso debemos ser cautelosos al afirmar una relación en la realidad que parece ser muy probable en la estadística.
+- ![Preview](https://static.platzi.com/media/user_upload/download%20%281%29-65736ac5-3c80-41a4-a811-8665b32663be.jpg)
+- para hallar esta correlación se utilizan varias [[Medidas De Dispersión]] como lo son la [[Covarianza]] y la [[Desviación estándar]] y estas al unirse crean una nuevo estadístico el [[Coeficiente de correlación]] el cual es la mejor medida para ver la correlación entre variables.

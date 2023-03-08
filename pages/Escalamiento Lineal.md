@@ -1,3 +1,4 @@
 - Esta técnica se utiliza para que todas nuestras variables que intervendrán en el modelo estén unificadas en solo un tipo de escala, normalmente en la escala [-1, 1] de menos uno hasta uno la cual hace a los modelos de [[Machine Learning]] eficientes.
 - Una nota bastante interesante y que talvez ahora haga mas sentido es que los escalamientos solo se suelen usar en [[Distribuciones]] normales de datos o no muy alejadas de estas. Con esto puedes darte una idea de porque saber las distribuciones de los datos importa, ya que a simple vista no parece importar mucho pero al aplicarles técnicas [[Matemáticas]] al grupo de datos seguramente hay cosas que no ves ahora mismo, pero son importantes en como funcionan esas matemáticas por detrás por detrás.
 - Hay varios tipos de escalamientos y usar uno u otro dependerá de lo que necesites para tu modelo. Dos de los mas usados es el Min-Max y Z-score.
+-

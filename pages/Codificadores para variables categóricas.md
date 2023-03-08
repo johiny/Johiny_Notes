@@ -1,0 +1,1 @@
+- Estos codificadores son la manera de transformar variables categóricas a números que el modelo pueda entender los mas populares son el [[Dummy]] y el [[One-hot]]

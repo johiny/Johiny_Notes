@@ -1,0 +1,4 @@
+- Esta no es mas que un vector de 2 dimensiones donde cada celda representa la [[Covarianza]] o [[Coeficiente de correlación]] de una pareja de variables.
+- ![Covarianza - Wikipedia, la enciclopedia libre](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYecpkJYBdaWfy8mA62mQxuaMv59kjimMjlBTKG3h4vHklJYrKDqTpz4N4Nd9WMd2gKA&usqp=CAU)
+- Una de las maneras más populares de representarlas hoy en día en código es con los heatmaps, los cuales están presentes en diferentes librerías de Python como seaborn:
+- ![Seaborn heatmap | Learn the Various Examples of Seaborn heatmap](https://cdn.educba.com/academy/wp-content/uploads/2021/02/Seaborn-heatmap-output-4.png)

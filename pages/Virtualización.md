@@ -1,0 +1,8 @@
+- La virtualización no es mas que crear una computadora dentro de otra, para que varias instancias de un software o un grupo de software puedan estar viviendo dentro de un mismo hardware físico, pero a su vez totalmente aislados como si se estuvieran ejecutando en un computadora independiente.
+- esta técnica tiene 2 vertientes:
+- **Las Máquinas virtuales:** Cuando se usan máquinas virtuales, cada instancia es una computadora virtual completa, con su propio sistema operativo y hardware.
+- **Los Contenedores:** Cuando se usan contenedores, cada instancia comparte un sistema operativo y los recursos de hardware con la computadora host.
+- Cuales son sus principales diferencias?, las maquinas virtuales son mas pesadas ya que cuentan con una virtualización completa, lo que permite tener varios sistemas operativos diferentes en una misma pc, en cambio los contenedores son más livianos pero si la pc física esta ejecutando Linux todos los contenedores dentro de ella tienen que estar corriendo Linux también.
+- Puedes ver esto como 2 clases diferentes de padres:
+- El primer padre es doctor, pero es flexible y dejara que su hijo sea lo que quiera.
+- El segundo padre también es doctor pero debido a que el es doctor, su hijo también tiene que ser doctor obligatoriamente.

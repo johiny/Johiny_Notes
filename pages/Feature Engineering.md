@@ -5,3 +5,6 @@
 - Los métodos de escalamiento que usemos dependerán del tipo de distribución que tenga nuestros datos.
 - Para [[Distribuciones]] normales se utiliza el [[Escalamiento Lineal]].
 - Y para las demás lo que se hace primero es una [[Transformación No Lineal]] a los datos y luego aplicarles el [[Escalamiento Lineal]].
+- Pero que pasa si no podemos hacer un escalamiento de los datos ya que estos no son tipos de datos [[Numéricos]] si no [[Categóricos]]? para esto podemos usar [[Codificadores para variables categóricas]]
+- Después de procesar nuestros datos seguramente acabemos con un dataset mucho más extenso que al principio y esto puede ocasionar problemas de rendimiento al modelo por ello luego de interpretar nuestros datos para el modelo ahora sigue ver que es lo realmente importante y ver de donde podemos recortar ahí entra el [[PCA]]!
+- Como seguro estarás pensando todo esto se puede descomponer en un serie de pasos y ahí entran las [[Pipelines]], su nombre esta muy pensado porque las podemos ver como literalmente eso. tuberías/cintas/vía, etc por donde van nuestros datos y varias cosas les van pasando paso a paso.
