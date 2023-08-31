@@ -1,0 +1,9 @@
+- Comienza lo chido la navaja suiza de los analistas de datos vamos a verla!
+- esta tabla nos permite ver la data de múltiples maneras diferentes
+- con esta se puede agrupar y ordenar, calcular, sumar, resumir, promediar de todo realmente.
+- Aunque al principio parezca un poco compleja veraz que todo depende de como organicemos nuestros datos a través de los ejes y/x, de los datos primigenios/originales que ya teníamos, de los compuestos a partir de estos y de los filtros que hagamos a todos estos.
+- este tipo de tabla cuenta con 4 partes básicas:
+- [[Pivot Rows]]
+- [[Pivot Columns]]
+- [[Pivot Values]]
+- [[Pivot Filters]]

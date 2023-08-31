@@ -1,0 +1,1 @@
+- Según los datos entender cual de las posibles acciones en un escenario podría dar el mejor resultado

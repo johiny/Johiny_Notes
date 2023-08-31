@@ -1,0 +1,13 @@
+- Funciones como
+- TRIM: para cortar los espacios de cualquier dato
+- SUBSTR: para extraer una parte mas pequeña de la string del dato, como 'US' de 'USA'
+- CAST: para transformar datos de un tipo a otro
+- CONCAT: junta 2 strings, podrías combinar el id de un usuario con su rol para hacer un nuevo identificador unico
+- COALESCE: hace como un colapso de 2 o mas columnas, para por si algún campo  tiene un valor nulo, este sea remplazado por el valor de la columna que escogemos, imagina que todos nuestros datos tienen un precio por docena y por unidad, queremos saber los precios por docena de todos los productos pero por alguna razón algunos productos no tienen valor por decena en ese momento podemos usar coalesce para cambiar los valores nulos de ese producto en particular por los valores de unidad manteniendo los valores por docena de los registros que si lo tengan, si lo piensas de modo abstracto es como si las columnas colapsaran o se unieran donde hay huecos como unir bloques de un puzzle.
+- COUNT: cuenta los récords de una tabla, tiene su versión normal como la DISTINCT
+- CASE: el típico control de flujo dependiendo de una condición o valor
+- IF: función mas pequeña de case que devuelve un valor entre 2 opciones dependiendo del resultado de la condición
+- WHERE: Filtra filas individuales según los datos nativos de la tabla no tiene acceso a los valores obtenidos por las funciones de SQL como COUNT y SUM.
+  HAVING: Filtra grupos o datos usando datos de las funciones de agregación como COUNT y SUM.
+- GROUP BY: agrupas todos los registros por los valores únicos de cierta característica
+- EXTRACT: puede extraer cualquier valor especifico de un campo datetime, como el año, el mes, etc.

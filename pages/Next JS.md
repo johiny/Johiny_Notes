@@ -1,0 +1,20 @@
+- Este framework nace a mediados de 2016 para suplir las necesidades de los pilares del desarrollo web actual el [[Renderizado]]
+- ## Pero que es next.js para React?:
+  Podríamos describirlo como que [[React]] es un plato muy bueno y que sabe muy bien por si solo si cualquier persona lo hace, entonces next es el chef que sabe como preparar a React para que sepa a un mejor además de agregarle condimentos extras!.
+- Algo buenísimo de next es que permite hacer un [[Renderizado]] hibrido combinando uno y otro para obtener lo bueno de los 2 mundos.
+- ## **Las principales características de Next son**:
+	- Renderizado hibrido
+	- Router Integrado
+	- Data fetching
+	- Built-in optimizations
+	- Soporte para [[TypeScript]]
+	- Soporte para todo tipo de [[CSS]]
+	- Api Routes
+	- Middleware
+	- [[Node]] y edge Runtimes
+	- Zero config
+	- Automatic code splitting
+	- Better user experience
+	- SEO
+	- Gran comunidad
+- Las tres ultimas le dan el poder a next también de ser un Framework [[Full Stack]]!.

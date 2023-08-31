@@ -1,0 +1,1 @@
+- Encontrar patrones entre los datos, como una posible disminución de ventas en algún mes o día especifico.

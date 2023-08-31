@@ -1,0 +1,11 @@
+- Comenzamos hora de aprender Excel! sabes usar pandas pero no excel si que te gusta hacer las cosas a la inversa!
+- Estas cuentan con muchas funciones 2 de las mas útiles son:
+- [[Formula]]
+- [[SpreadSheet Function]]
+- Las SpreadSheet al final son unos [[Datos Estructurados]] estas pueden tener 2 categorías:
+  **Wide Data**: Los datos anchos contienen una amplia gama de variables, pero menos o hasta solo 1 observación por sujeto para cada una de ellas, son como un lago poco profundo pero muy amplio.
+- **Long Data**: Los datos anchos contienen una poca cantidad de variables, pero muchas observaciones del mismo sujeto según diferentes puntos en el tiempo u otras variables, son como un lago muy profundo pero muy estrecho.
+- En este cuadro puedes ver algunas características por las que se prefiere uno u otro:
+  ![image.png](../assets/image_1688672820882_0.png)
+- Las spreadsheets también cuentan con muchísimas herramientas para realizar una buena [[Limpieza de datos - SpreadSheets]] a la [[Dirty Data]]
+- en las spreadsheets se puede ordenar tanto la sheet entera o un rango de esta, comúnmente la opción que mas utilizaras será la de ordenar por la sheet entera ya que si ordenas solo un rango individual lo que estarás haciendo es desordenar los datos ya que los registros de las otras columnas permanecerán en el mismo orden mientras alteras el orden de la columna o rango que escogiste por lo tanto cambiando los registros, como ordenar la columna de sueldos de tus empleados y que por arte de magia ahora tu empleado mas reciente o mas antiguo sea el que gane mas dinero de la empresa!, eso seria catastrófico.

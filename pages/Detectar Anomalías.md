@@ -1,0 +1,1 @@
+- Detectar un dato fuera de lo común entre los datos

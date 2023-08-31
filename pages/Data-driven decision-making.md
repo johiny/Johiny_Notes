@@ -1,0 +1,1 @@
+- oh suena muy místico!, pero sencillamente es tomar decisiones o guiar la estrategia de negocio con los hechos, información, o conclusiones que hayamos hallado en al data.

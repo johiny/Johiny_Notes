@@ -1,0 +1,3 @@
+- Estos servicios están divididos en 5 categorías y estas a su vez tienen mas subcategorías dentro.
+  ![Azure Cognitive Services Resources and Tutorials – Jamie Maguire](https://th.bing.com/th/id/R.59c6defbfd5d2c330c33b522a8cbf555?rik=yjv7Sl9mWL75gQ&riu=http%3a%2f%2fwww.jamiemaguire.net%2fwp-content%2fuploads%2f2019%2f07%2fimage001.png&ehk=gekVvjwLex1NFkAqHaHjKyFeIH89Thk75uPVWF%2fmPag%3d&risl=&pid=ImgRaw&r=0)
+- Estos servicios no son mas que modelos de [[Machine Learning]] pre-entrenados, que puedes utilizar al instante, además de eso puedes intentar personalizarlos entrenándolos un poco mas con tus propios datos.

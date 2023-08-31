@@ -1,0 +1,2 @@
+- Básicamente una colección de datos e información periódica.
+- una buena herramientas para hacer reportes sencillos pero rápidos es la [[Pivot Table]]

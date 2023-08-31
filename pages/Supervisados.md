@@ -1,0 +1,2 @@
+- En este tipo de modelos se suele tener idea de que podría el valor de salida o hasta tener etiquetas para cada uno.
+- Algunos ejemplo de este tipo son los modelos de [[Regresión]] y de [[Clasificación]].

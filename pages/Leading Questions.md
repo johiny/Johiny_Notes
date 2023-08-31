@@ -1,0 +1,3 @@
+- Este tipo de preguntas están formuladas para dirigir la respuesta en una dirección en vez de ser algo totalmente neutral por ejemplo.
+- ¿No estás de acuerdo en que el nuevo sistema es mucho más eficiente que el anterior?
+- En esta pregunta con la frase no estas de acuerdo?, ya la persona te esta dando información de que el si cree que el nuevo sistema es mejor que el anterior y tratando de conseguir una confirmación de eso por tu parte lo que guía tu respuesta hacia una dirección.

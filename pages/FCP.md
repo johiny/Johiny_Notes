@@ -1,0 +1,1 @@
+- First Contentful Paint (tiempo que tarda hasta que se dibuja el primer elemento en la pantalla)

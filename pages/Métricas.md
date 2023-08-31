@@ -1,0 +1,1 @@
+- algunas métricas comunes como el [[ROI]], [[Revenue]]

@@ -1,0 +1,2 @@
+- Básicamente los estándares de que esta bien o mal ala hora de recolectar, analizar y compartir data.
+- la [[Anonimización De Datos]] es una técnica muy importante dentro de la ética de los datos para mantener la privacidad de estos.

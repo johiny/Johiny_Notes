@@ -1,0 +1,2 @@
+- No es mas que una lista de comandos que se ejecutan uno tras otro, tras haber un cambio en alguna rama de repositorio.
+- Esta es la clave de [[CI/CD]]

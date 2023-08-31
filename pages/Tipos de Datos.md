@@ -1,0 +1,4 @@
+- En el [[Data Analysis]] esxisten 2 tipos principales de datos:
+- Cuantitativos: los cuales son básicamente números los mismos también conocidos como [[Numéricos]] en la [[Estadística]]
+- Cualitativos: los cuales son básicamente características o atributos que no son fácilmente expresables en números también conocidos como [[Categóricos]] en la [[Estadística]].
+- Pero estos son viéndolo desde el lado mas humano y matemático, si nos vamos a un enfoque mas informático nos encontraremos con mas tipos de dato como que seguramente te resultaran familiares, como numero, texto, booleano, etc. A que te suenan de algo?.

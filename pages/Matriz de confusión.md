@@ -1,0 +1,3 @@
+- Una matriz de confusión es una matriz 2x2 donde se colocan los resultados de un modelo de clasificación.
+  ![La matriz de confusión y sus métricas – Inteligencia Artificial –](https://www.juanbarrios.com/wp-content/uploads/2019/07/MATRIZ-CONFUSION.png)
+- La imagen de arriba muestra bastante claro que siempre queremos mantener la mayor cantidad de resultados entre el sector superior izquierdo y el inferior derecho, cuando el modelo diga que algo pertenece a una clase que este en realidad pertenezca, y si el modelo dice que no pertenece que este en realidad no pertenezca, queremos la menor cantidad de falsos positivos y falsos negativos que podamos lograr.

@@ -1,0 +1,2 @@
+- deja todas los records de la tabla izquierda y combina los que hagan matching de la tabla derecha
+- ![image.png](../assets/image_1691877627397_0.png)

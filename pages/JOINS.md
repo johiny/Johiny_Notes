@@ -1,0 +1,7 @@
+- Los famosos joins eh? así que por fin estas aqui, llevas escuchando acerca de estos desde hace mucho pero que son exactamente?
+- Para resumirlo es la sintaxis con la cual en SQL podemos unir diferentes tablas en una sola para hacer nuestra consulta, como ya sabrás las bases de datos de sql al ser base de datos relacionales están basadas en entidades/tablas que albergan registros/records de esta entidad con todos los distintos atributos que la componen, debido a esto cada tabla esta separada como la tabla de estudiantes con todos los  estudiantes y los respectivos atributos de cada uno, la tabla de profesores igual, o hasta la tabla de aulas de clase, pero si estas tablas son entidades totalmente diferentes? como las puedo unir, si pego la información una al lado de otra seria un desmadre terrible no? como se si las cosas que quedarían una al lado de la otra tienen relación o si comparten algún orden? esto haría que la data se volviera una sopa llena de cosas sin sentido. Para ello existen esta sintaxis que funciona a través de seguramente las recuerdes las [[Primary Key]] and [[Foreign Key]], estas keys/columnas son las que enlazan las tablas y permiten que mantengan las cordura.
+- Hay diferentes tipos de joins y estos cambian su comportamiento en la unión de las tablas aqui los mas usados:
+- [[Inner Join]]
+- [[Left Join]]
+- [[Right Join]]
+- [[Full Join]]

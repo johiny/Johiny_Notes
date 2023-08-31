@@ -1,0 +1,5 @@
+- Hace referencia al origen de los datos, de estas hay 3 categorías:
+- **First-party Data**: data recolectada por ti de primera mano.
+- **Second-party Data**: data recolectada por otro.
+  **Third-party Data**: data recolectada de múltiples fuentes diferentes.
+- Como puedes ver hay un ventaja y un problema entre mas avanzamos de nivel, mientras que si conseguimos la data de terceros nos ahorramos el proceso de recolectarla nosotros también se vuelve mas difícil que la data que nos llegue sea justo lo que necesitábamos o que este limpia, o que tenga algún tipo de sesgo. Como dice el dicho si quieres hacer algo bien hecho hazlo tu mismo, pero esto no quiere decir que siempre obtener data de otros sea malo, ya que dependen de la complejidad, importancia, plazos, etc que tenga el proyecto. Como todo en esta vida depende, y tendrás siempre que evaluar todas las opciones de fuentes para ver la que mejor se adecue a la situación.

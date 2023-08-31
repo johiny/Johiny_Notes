@@ -1,0 +1,3 @@
+- Este tipo de preguntas se formulan de una manera que las opciones de las posibles respuestas son muy limitadas o cortas. por ejemplo:
+- ¿Prefieres el chocolate negro o con leche?
+- En esta pregunta las únicas de respuestas son negro o con leche o un si o un no, por lo que no se puede extraer mas información o obtener una respuesta mas amplia como porque prefiere uno sobre otro o si tiene otro que prefiere además de estas 2 opciones.

@@ -1,0 +1,1 @@
+- examinar como esta funcionando algo y como te gustaría que funcionara en el futuro para encontrar los puntos claves y las cosas que hacen falta para llegar allí, como lo dice su nombre lo puedes ver como un acantilado con 2 montañas tendremos que averiguar como hacer un puente para pasar de la montaña 1 a la montaña 2.

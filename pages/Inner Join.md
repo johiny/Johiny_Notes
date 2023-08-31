@@ -1,0 +1,2 @@
+- El cual junta los registros que hagan matching (tengan una llave emparejada con los registros de otra tabla)
+- ![image.png](../assets/image_1691877479003_0.png)

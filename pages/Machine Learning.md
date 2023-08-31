@@ -1,8 +1,10 @@
 - el hijo de la [[Estadística]] y la [[Computer Science]]
 - el proceso por el cual un modelo matemático ejecutado en una computadora aprende de datos y muestras para luego tomar decisiones sobre algo, identificar?, predecir?, categorizar?, si logra aprender a identificar patrones y distinguir cosas al igual que nosotros las posibilidades son demasiado inmensas para cambiar el mundo.
+- Matemáticamente puedes pensar en un modelo de Machine Learning  como una [[Función Matemática]] que recibe un numero de variables/features y devuelve un valor. Los diferentes valores que devuelva pueden significar diferentes cosas dependiendo del contexto en el que estés implementando el modelo.
 - En contraste con la programación tradicional donde le damos a la computadora un manual de instrucciones con pasos precisos para resolver algo que queremos, aquí se podría decir que ella aprende por su cuenta y encuentra ese manual por ella misma según los datos y los resultados que esperamos después de procesar esos datos.
   collapsed:: true
 	- ![image.png](../assets/image_1670853549400_0.png)
+- Hay 2 tipos principales de Machine Learning [[Supervisados]] y [[No Supervisados]] la principal diferencia entre estos es la necesidad de definir valores de salida específicos.
 - Un proceso básico para el desarrollo de un modelo de machine learning.
 	- 1. Recolectar o conseguir datos
 	- 2. Identificar y entender el problema que quieres solucionar.

@@ -1,0 +1,3 @@
+- La palabra [[Meta]] es bastante bonita pero por ahora concéntrate en que significan los metadatos
+- Básicamente datos sobre datos, información que le da contexto a otra información.
+- hay algo llamado [[MetaData Repositories]] que seria bueno echarle un ojo más a profundad

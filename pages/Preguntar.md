@@ -1,0 +1,9 @@
+- Es de total prioridad identificar y entender el problema que tienen los stakeholders desde el principio ya que todas las fases siguientes dependerán de las preguntas que ye hayas hecho en esta etapa para empezar a resolver el problema.
+- Pero si preguntar es tan importante como hago buenas preguntas?
+- Bueno primero analicemos lo que podrían ser malas preguntas:
+- [[Leading Questions]], [[Close-ended Questions]]
+- Estas 2 clases de preguntas o guían la respuesta en un sentido o hacen que las respuestas sean muy simples o limitadas.
+- Entendiendo que tienen en común podemos evitar hacer malas preguntas, también podemos utilizar metodologías como [[SMART]] y siempre hacer nuestros preguntas imparciales evitando cualquier tipo de sesgo.
+- Entonces ya que entender y definir bien el problema es crucial ya que todas las demás fases depende de ello y ya hemos visto como hacer buenas preguntas que mas sigue?, bueno tanto las las buenas preguntas como el [[Pensamiento Estructurado]] hacen parte de algo llamado el [[Problem Domain]]
+- También es muy importante entender el [[Contexto]] de los datos que vamos a recolectar o analizar, los datos no son un ente asilado de la realidad existen entre algo mas grande su contexto.
+- Un analista de datos considera el quién, qué, cuándo, dónde, por qué y cómo para siempre entender el [[Contexto]] de los datos con los que esta trabajando

@@ -1,0 +1,2 @@
+- Datos que no tienen ninguna estructura distinguible
+- La mayoría de los datos que se generan en el mundo son de este tipo, miles de imágenes, audios, videos, comentarios, observaciones están siendo registrados, creados, guardados sin ningún tipo de orden.

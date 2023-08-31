@@ -1,0 +1,1 @@
+- Dividir el bundle de una web [[CSR]], para que cargue por partes y no todo a la vez.

@@ -1,0 +1,1 @@
+- Como podrás inferir por su nombre este es la parte mas fácil de todas la cual nos permite filtrar la data que tendrá a disposición la pivot table, por cualquier tipo de condición.

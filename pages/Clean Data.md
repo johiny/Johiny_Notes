@@ -1,0 +1,4 @@
+- datos organizados
+- datos correctos
+- datos perfectamente coherentes
+- la anti tesis de la [[Dirty Data]] en resumidas palabras.

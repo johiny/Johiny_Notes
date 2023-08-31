@@ -1,0 +1,3 @@
+- un conjunto de instrucciones que ejecuta un calculo especifico sobre los datos que contenga el spreadsheet
+- Estas se llaman con el signo =
+- Pueden contener [[Variables]] como en el programación pero aqui las variables son las mismas celdas que tienes en tu spreadsheet y puedes hacer uso de ellas con las [[Cell References]]

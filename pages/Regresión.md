@@ -1,0 +1,8 @@
+- La regresión es un modelo de [[Machine Learning]] para entender las relaciones entre las variables de un dataset y predecir una en particular.
+- Hagamos un escenario completo para entender esto bien.
+- Imagina que eres un vendedor de hotdogs, compras semanalmente tus ingredientes para tenerlos frescos pero te pasa algo muy seguido, compras demasiado de un ingrediente o muy poco de uno cada semana, lo que hace que desperdicies dinero o que guardes el ingrediente para la próxima semana el cual ya no estará tan fresco o que no puedas darle a algún cliente lo que quiere porque se te acabo ese ingrediente en particular.
+- Ojala pudieras preguntarle a un sabio con la capacidad de ver el futuro cuanto necesitas de cada ingrediente cada semana, con eso podrías comprar justo lo necesario.
+- Ese sabio existe pero no es una persona es un modelo de regresión de [[Machine Learning]].
+- Entonces después de investigar en línea, empiezas a recolectar todo tipo de datos relacionados con tu negocio cada semana durante un año, desde el clima, el mes, el tipo de día, tu ubicación, tus acciones, los pedidos de tus clientes, los ingredientes que necesitaste esa semana, necesitas pensar que todo lo que sucede es un dato que puede ayudarte.
+- Después de un año con todos estos datos puedes empezar a entrenar un modelo que encuentre las relaciones de todos los datos que tomaste con la cantidad de ingredientes que necesitas.
+- Al final tendrás a tu sabio personal al que le podrás preguntar que ingredientes necesitas esta semana o hasta ir mas allá y que te diga cuantos vas a necesitar cada día y talvez de este problema e investigación pueda surgir otro modelo que hasta te ayude a incrementar las ventas!

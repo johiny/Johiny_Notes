@@ -1,0 +1,8 @@
+- datos duplicados
+- datos erroneos
+- datos raros
+- datos sin ningun sentido
+- datos faltantes
+- datos en otro formato
+- Todo dato que parecía no seguir una coherencia con el resto del dataset se podría considerar dirty data y estos datos pueden afectar el análisis y llevarlo por el mal camino después de realizar una limpieza estos datos se convertirán en [[Clean Data]]
+- todo esto se puede hacer en [[SpreadSheets]] como en [[SQL]]!

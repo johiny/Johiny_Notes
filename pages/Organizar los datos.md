@@ -1,0 +1,2 @@
+- Algo que se suele hacer en esta etapa es la [[Aggregation]] con la cual unimos toda la data que tengamos de diferentes orígenes en un solo lugar.
+- Algo clave para poder lograr una buena [[Aggregation]] es saber utilizar los [[JOINS]] statements de [[SQL]]

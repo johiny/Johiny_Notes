@@ -1,0 +1,3 @@
+- Este es la entrada otro mundo
+- pero por ahora vamos a empezar con como comunicarse con los [[Stakeholders]] de un proyecto de análisis de datos
+- la [[Comunicación]] es una habilidad clave en este tipo de habilidades

@@ -1,0 +1,1 @@
+- Interpretación de los datos del pasado para hallar patrones y tendencias

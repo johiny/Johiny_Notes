@@ -1,0 +1,1 @@
+- la [[Clasificación]] llevada a un nivel de contexto mas amplio se podría ver como agrupar agrupaciones, hay ropa, clasificamos la ropa en categorías como pantalones, sudaderas, camisas etc, ahora agrupamos ciertas categorías en grupos mas grande como ropa deportiva en las cuales estarían las sudaderas, tenis, esqueletos, chaquetas, pantalonetas, etc.

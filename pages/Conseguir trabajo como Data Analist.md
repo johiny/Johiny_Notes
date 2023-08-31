@@ -1,0 +1,4 @@
+- ir a job sites
+- ir directamente a las paginas de las empresas
+- es bueno tener un gran [[Resume]]
+- TODO Leer [esto](https://www.coursera.org/learn/proceso-de-datos-sucios-a-datos-limpios/supplement/DQgYG/recursos-de-careercon-en-youtube) cuando hayas terminado el google data analytics

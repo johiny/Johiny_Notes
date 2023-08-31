@@ -1,0 +1,3 @@
+- En este tipo de modelos no es necesario saber que valores de salida estamos esperando.
+- Algunos ejemplo de este tipo son los modelos de [[Agrupamiento]] y de [[Selección]].
+- Este tipo de modelos suele ser mejor para detectar patrones ocultos en los datos que ni siquiera nosotros mismos hemos visto.

@@ -1,0 +1,1 @@
+- como [[Python]] o [[R]]

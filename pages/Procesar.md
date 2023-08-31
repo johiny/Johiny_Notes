@@ -1,0 +1,4 @@
+- Aqui comienza a ponerse la carne en el asador y dicen que es la etapa que mas consume tiempo.
+- Es hora de aprender a poner esos datos en forma!
+- procesar significa modificar, eliminar o agregar datos, pero no se puede hacer esto sin ninguna lógica por detrás o si no los datos que recolectamos no servirían de nada, imagina que recoges información sobre helados vendidos en un mes, y luego al final agregas que el helado de chicle picante se vendió 2000 veces de la nada, o borras todas las ventas de helado fresa? para que harías eso?, con que lógica? con que fin? recolectaste un montón de datos para luego arruinarlos?, por eso cada cambio que hagas a los datos recolectados tiene que tener una lógica causal bien establecida y con eso mantener la [[Data Integrity]]
+- En esta etapa también es cuando se suele escoger algo que ya conoces bien y seguro que recuerdas bien las [[Muestras]]!

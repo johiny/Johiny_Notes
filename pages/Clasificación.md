@@ -1,0 +1,8 @@
+- Este modelo o técnica de análisis como su nombre lo dice es uno de los mas usados también, ya que permite clasificar un objeto de forma binaria, o en múltiples clases.
+- Algunos ejemplos serian clasificar si una planta es venenosa o no, después de analizar sus características
+- o clasificar una prenda de ropa entre ciertas categorías según su forma o color.
+- En este tipo de modelo se utiliza la [[Matriz de confusión]]
+- también se utilizan métricas como:
+- **Precisión**: el porcentaje de las predicciones de clase correctas que ha realizado el modelo. Por ejemplo, si el modelo ha pronosticado que había 10 imágenes de naranjas, de las que 8 eran realmente naranjas, la precisión es de 0,8 (80 %).
+- **Coincidencia**: porcentaje de predicciones de clase identificadas de forma correcta por el modelo. Por ejemplo, si hay 10 imágenes de manzanas y el modelo ha encontrado 7, la coincidencia es de 0,7 (70 %).
+- **Promedio de precisión (PP)**: métrica general que tiene en cuenta la precisión y la coincidencia.

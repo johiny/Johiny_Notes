@@ -1,0 +1,8 @@
+- Uno de los pilares del [[Web Development]] actual.
+- hay 3 clases de este [[SSR]], [[CSR]] y [[SSG]] cada uno con sus ventajes y desventajas.
+- Pero en que nos basamos para escoger uno u otro?
+- Para ello hay 3 métricas principales:
+	- [[TTFB]]: Time to First Byte (tiempo que tarda en llegar la primera data desde el server)
+	- [[FCP]]: First Contentful Paint (tiempo que tarda hasta que se dibuja el primer elemento en la pantalla)
+	- [[TTI]]: Time To Interactive
+- estas métricas vienen de [[Web Vitals]]

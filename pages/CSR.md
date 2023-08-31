@@ -1,0 +1,10 @@
+- Renderización en el cliente.
+- Genera el website en el navegador, todo pasa en el cliente, el servidor solo se encarga de enviar todo el bundle de [[JavaScript]] .
+- Ventajas:
+	- Costo de hosting y servers más bajo
+	- Navegación más fluida debido a que todo ya esta cargado en la primera carga.
+	- Despliegue más fácil.
+- Desventajas:
+	- el bundle se puede volver extremadamente grande, lo que va ralentizar la carga del sitio web, tarde o temprano nos veremos en la obligación de hacer un [[Code Splittting]]
+	- [[SEO]] pobre y más difícil de implementar
+	- La experiencia en dispositivos de gama baja puede ser terrible

@@ -1,0 +1,6 @@
+- [[Make Predictions]]
+- [[Clasificación]]
+- [[Detectar Anomalías]]
+- [[Identify Themes]]
+- [[Discover Connections]]
+- [[Find Patterns]]

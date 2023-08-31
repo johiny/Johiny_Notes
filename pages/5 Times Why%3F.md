@@ -1,0 +1,2 @@
+- Aunque suene bastante simple podrás llegar a la raíz de problemas complejos con solo preguntarte porque 5 veces.
+- aqui puedes saber mas [just-ask-why-five-times](https://www.fastcompany.com/1669738/to-get-to-the-root-of-a-hard-problem-just-ask-why-five-times)

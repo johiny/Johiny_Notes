@@ -1,0 +1,11 @@
+- Renderización en el servidor.
+- Genera el website en el servidor para que el cliente se encargue de la [[Hydration]]
+- Ventajas:
+- [[FCP]] más rápido
+- [[TTI]] más rápido
+- Mejor para dispositivos de gama baja
+- indexación y [[SEO]] más fácil y amigable
+- Desventajas:
+- [[TTFB]] más largo
+- Incrementa el gasto en servidores
+- Problemas de compatibilidad con librerías de terceros

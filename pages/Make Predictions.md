@@ -1,0 +1,1 @@
+- Utilizar los datos para hacer aproximaciones de como podría darse algo

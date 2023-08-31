@@ -1,0 +1,3 @@
+- Devops es una cultura de muchos procesos y herramientas para unir a los desarrolladores y operarios de infraestructura para poder lograr volver la entrega de software mas ágil.
+- [[Links DevOps]] interesantes.
+- una herramienta muy útil de devops es [[Azure DevOps]]

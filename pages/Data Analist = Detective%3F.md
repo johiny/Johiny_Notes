@@ -1,0 +1,2 @@
+- Los detectives y los analistas de datos tienen mucho en común. Ambos dependen de hechos y pistas para tomar decisiones. Ambos recopilan y observan la evidencia. Ambos hablan con personas que conocen parte de la historia. Y ambos podrían incluso seguir algunas huellas para ver hacia dónde llevan. Tanto si eres detective como analista de datos, tu trabajo consiste en seguir pasos para recopilar y entender los hechos.
+-

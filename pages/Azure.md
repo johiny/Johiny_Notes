@@ -3,3 +3,4 @@
 - ![image.png](../assets/image_1677861902627_0.png)
 - Los grupos de administración pueden ser anidados lo que conlleva a hacer estructuras mucho mas grandes y complejas. 
   ![Diagrama que muestra un ejemplo de un árbol de jerarquía de grupos de administración.](https://learn.microsoft.com/es-es/training/wwl-azure/describe-core-architectural-components-of-azure/media/management-groups-subscriptions-dfd5a108.png)
+- Azure cuenta con un grupo de servicios bastante especiales estos son los [[Azure Cognitive Services]]

@@ -1,0 +1,1 @@
+- las [[Pivot Table]], las funciones [[Lookup]] y las [[Visualizaciones]] seran tus mejores amigas para analizar y entender los datos tanto en la etapa de [[Procesar]] como en la de [[Analizar]].

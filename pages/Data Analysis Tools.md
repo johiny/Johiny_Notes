@@ -1,0 +1,5 @@
+- Las principales herramientas de un analista de datos son:
+- [[SpreadSheets]]
+- [[Query Languages]]
+- [[Visualization Tools]]
+- [[Programming Languages]]

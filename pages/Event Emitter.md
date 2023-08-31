@@ -1,0 +1,1 @@
+- Este es un objeto que nos permite emitir eventos y reaccionara ellos cuando estén sucediendo.

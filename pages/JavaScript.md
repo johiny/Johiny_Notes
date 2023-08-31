@@ -1,4 +1,5 @@
 - en JavaScript se pueden usar las funciones antes de declararlas gracias al  [[Hoisting]] que mueve las funciones al principio del [[Scope]] pero solo si son declaradas con function.
+- el ecosistema de JavaScript cuenta con 2 principales ambientes donde se puede ejecutar, el navegador/cliente y el servidor/proveedor, estos 2 comparten muchas características entre si, pero también tienen sus diferencias como por ejemplo el [[DOM]] el cual solo esta disponible en el cliente, o el modulo OS el cual solo esta disponible ene le servidor.
 - let y const solo tiene un [[Scope]] de bloque!, entonces si es utilizado en global tendrá ese scope, si es declarado en una función tendrá el scope de toda esta, y si esta en un bloque como if solo estará disponible ahi.
 - el valor de this depende de su contexto.
 - las funciones de flecha heredan el valor this.

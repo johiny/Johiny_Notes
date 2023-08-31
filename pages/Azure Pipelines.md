@@ -1,0 +1,5 @@
+- Una [[Pipeline]] no es mas que una serie de pasos/comandos por donde pasa nuestro código, como una tubería con distintas etapas o una linea de ensamblaje en la cual se hacen distintas cosas con nuestro código.
+  ![Top 9 Tools and Tips for Improving Your DevOps Pipeline - WhiteSource](https://www.whitesourcesoftware.com/wp-content/media/2021/04/v0AvkTYAV9GVJuCPV-64BYiWYwWsoPMpp751__s1Lg-ckGv8-dfOv1M6c5usSm7RMK4XRcwIZtZGZ3Z86s03q6Gv3fg_3n13cJ9XxifFqxHm_wWoBL7dAEjnVKviSM7HgNtPYe8.png)
+  ![Captura-de-pantalla-2023-03-12-205001](https://i.ibb.co/1mfwgJ5/Captura-de-pantalla-2023-03-12-205001.png)
+- Un pipeline siempre se dispara cuando sucede un cambio en la rama que hayamos definido.
+- Se creara un archivo [[YAML]] donde podemos especificar que sistema operativo va a tener al maquina virtual que se crea para montar el proyecto y luego que tipo de [[Runtime Environments]] va a tener y luego que comandos se vana correr.

@@ -1,0 +1,8 @@
+- Una web tradicional de toda al vida con poca o nula interactividad o cambios en la interfaz, se genera una sola vez y el server solo se encarga de enviar los archivos HTML almacenados al cliente cada vez que se reciben peticiones.
+- Ventajas:
+	- sitios web más rápidos
+	- Buen SEO
+	- Menos vulnerabilidad
+- Desventajas:
+	- Entre más grande el website mas grande se hace el build
+	- Si quieres cambiar cualquier cosa hay que hacerlo manualmente y hacer un re-deploy

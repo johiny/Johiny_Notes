@@ -1,0 +1,4 @@
+- [devopsdays](https://devopsdays.org/)
+- [Devops - DEV Community](https://dev.to/t/devops)
+- [Comenzar con la ruta de aprendizaje de Azure DevOps - Training | Microsoft Learn](https://learn.microsoft.com/es-es/training/paths/evolve-your-devops-practices/)
+- [Amazon.com: DevOps For The Modern Enterprise: Winning Practices to Transform Legacy IT Organizations: 9781942788195: Hering, Mirco, Ghosh, Bhaskar: Books](https://www.amazon.com/DevOps-Modern-Enterprise-Practices-Organizations/dp/1942788193)

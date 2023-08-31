@@ -1,0 +1,1 @@
+- Entender los datos del pasado para hacer predicciones del futuro

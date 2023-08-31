@@ -1,0 +1,10 @@
+- Aqui después de todo el esfuerzo de los demas pasos empieza lo chido.
+- en esta etapa por fin obtendremos sentido de los datos que recolectamos y limpiamos.
+- En esta etapa es común empezar a usar [[Métricas]] enfocadas en el área de conocimiento o idea de negocio en la que se este trabajando estas son bastante parecidas a los [[Estadísticos Descriptivos]] son nuevos datos que creamos para resumir un grupo de datos, son grandes maneras de resumir datos y sacar valor de ellos.
+- Los datos tienen limites desde el sesgo de una persona, hasta si estos solo cuentan una parte de la historia.
+- Ahora teniendo esto en mente empecemos a analizar datos!
+- el análisis de datos se puede hacer de múltiples formas pero algo que suele ser común son las siguientes 4 fases:
+	- [[Organizar los datos]]: Tener tus datos organizados desde [[SpreadSheets]] hasta tablas en una base de datos
+	- [[Formatear y ajustar los datos]]: Castear, Ordenar y Filtrar los datos según lo necesites te llevara a verlos de muchas maneras distintas y con ello a muchas respuestas que estabas buscando.
+	- Obtener comentarios de los demás
+	- [[Transformar los datos]]

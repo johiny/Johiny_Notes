@@ -1,0 +1,6 @@
+- [[Preguntar]]: Desafío empresarial/objetivo/pregunta
+- [[Preparar]]: Generación, recopilación, almacenamiento y administración de datos
+- [[Procesar]]: Limpieza de datos/integridad de datos
+- [[Analizar]]: Exploración, visualización y análisis de datos
+- [[Compartir]]: Comunicación e interpretación de los resultados
+- **Actuar:**  Uso de tus conocimientos para resolver el problema

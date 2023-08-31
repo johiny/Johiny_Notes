@@ -1,0 +1,3 @@
+- Agrupamiento o clustering, es un tipo de modelo de [[Machine Learning]] donde el modelo divide diferentes entidades en varios grupos según sus similitudes/características.
+- Imagina que tienes un grupo de flores que a simple vista se ven iguales pero sientes que se podrían dividir ya que al verlas en detalles ves pequeñas diferencias, gracias al clustering podrías ver en cuantos grupos podrías dividir esas flores, las características diferenciales o de similitud de cada grupo y empezar a catalogar cosas que al principio parecían  lo mismo.
+  ![image.png](../assets/image_1679244187465_0.png)

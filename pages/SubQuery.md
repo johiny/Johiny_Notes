@@ -1,0 +1,2 @@
+- Donde las cosas se ponen complejas y chidas con SQL o lo que podría confirmar a SQL como verdadero y solido lenguaje de programación, las subquerys se podrían asemejar a las funciones que creas en otros lenguajes de programación y que luego utilizas una dentro de otra para obtener un sistema mas complejo, hay algunas reglas como:
+- tienen que estar entre paréntesis

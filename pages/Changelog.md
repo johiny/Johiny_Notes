@@ -1,0 +1,1 @@
+- un archivo que contiene todos las modificaciones que se le ha hecho a algún archivo ordenado cronológicamente.

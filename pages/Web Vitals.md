@@ -1,0 +1,2 @@
+- Una iniciativa de Google para crear una guida de indicadores de calidad para brindar un excelente experiencia web al usuario.
+- Más información [Web Vitals](https://web.dev/vitals/)

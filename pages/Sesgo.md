@@ -1,0 +1,6 @@
+- un sesgo no es mas que tener una preferencia consciente o subconsciente a favor o en contra de algo, desde un sabor favorito de helado hasta ideas creadas por estereotipos hacia cierto sector de la población.
+- En el [[Data Analysis]] hay diferentes tipos de sesgos como:
+  **Sesgo de Muestra**: Que ocurre cuando la muestra que escogiste no representa la población realmente, como escoger a 10 personas de la fila de la tienda de helados para que te digan cual es su comida favorita del parque.  
+  **Sesgo de Observación**: Que es la tendencia a que personas observen la misma cosa de forma diferente, 2 científicos pueden estar mirando la misma cosa a través de un microscopio y aun así sacer diferentes conclusiones según sus experiencias y conocimientos.
+  **Sesgo de Interpretación**: Que es la tendencia a interpretar situaciones ambiguas en cierta dirección, 2 personas pueden escuchar el mismo podcast y uno le parecerá que el presentador esta siendo carismático mientras que al otro le aparecerá que tiene mucho ego.
+  **Sesgo de Confirmación**: Que es la tendencia de buscar información o interpretarla de manera que confirme ideas preconcebidas que tenias antes de recopilar los datos.
