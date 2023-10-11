@@ -1,0 +1,11 @@
+- hay muchos métodos de infiltración que alguien puede usar para ingresar a un sistema no autorizado.
+- [[Ingeniería Social]] para manipular a las personas a efectuar ciertas acciones.
+- Ataque DoS: o famosamente conocido como denegación de servicio, muchas solicitudes hacia un mismo punto con o sin paquetes de datos corruptos para intentar bloquear el sistema y que este caiga, este ataque se podría usar como una distracción mientras se intenta la infiltración.
+- Ataque DDoS: evolución del ataque DoS, donde las solicitudes masivas vienen de diferentes lugares a la vez.
+- Los ataques DoS suelen ser efectuados a través de una [[BotNet]]
+- [[MITM Y MITMO]]
+- [[Envenenamiento SEO]]
+- [[Descifrado Wi-Fi]]
+- [[Descifrado de Contraseñas]]
+- [[APT]]
+- Existen muchos métodos y tácticas pero eso no es todo, en un mundo ideal los atacantes solo usarían estas tácticas para lograr acceder a los sistemas pero lastimosamente los sistemas no son perfectos y estos pueden tener [[Vulnerabilidades]] desconocidas que los atacantes pueden aprovechar diseñando un [[Exploit]] con el cual explotar las esas vulnerabilidades que tenga el sistema.

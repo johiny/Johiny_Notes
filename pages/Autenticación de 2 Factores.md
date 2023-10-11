@@ -1,0 +1,1 @@
+- Autenticación que requiere en segundo token para su completado como huella, objeto físico, o código extra enviado a otro recurso de validación del propietario como su correo o celular.

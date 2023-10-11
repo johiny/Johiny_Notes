@@ -1,0 +1,1 @@
+- Personas aficionadas que utilizan herramientas ya hechas para ejercer un ataque, sus ataque no son suelen ser muy sofisticados pero aun pueden hacer ser bastante dañinos

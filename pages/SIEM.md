@@ -1,0 +1,1 @@
+- Sistema que monitoriza eventos y alertas de seguridad para la detección temprana de ataques.

@@ -1,0 +1,2 @@
+- la encriptaciones s el proceso de convertir datos a un formato imposible de leer y que solo alguien que tenga la llave para desencriptarlo podrá volver a sus estado original para poder leerlo, esta técnica ha sido clave para el desarrollo de los sistemas de informacion de la historia, seguramente has escuchado de Alan Turing y su ayuda para descifrar el código enigma de los nazis en la segunda guerra mundial.
+-

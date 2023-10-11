@@ -1,0 +1,6 @@
+- Una buena historia puede depender de muchas y también dependerá de si les guste a tu publico, pero unos elementos bastante comunes siempre se repiten a través de las historias que logran ser buenas.
+- Personajes
+- Ambientación/Contexto
+- Problema/Conflicto
+- Resolución
+- Mensaje / Aha Moment donde se comparte la reflexión final de la historia

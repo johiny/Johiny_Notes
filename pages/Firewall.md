@@ -1,0 +1,1 @@
+- un firewall es un sistema de seguridad tanto de [[Software]] como de [[Hardware]] que controla y vigila el tráfico red saliente y entrante para detectar posibles anomalías o amenazas.

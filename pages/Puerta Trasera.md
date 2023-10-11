@@ -1,0 +1,1 @@
+- Como su nombre te lo podría hacer intuir es un software dedicado a crear una entrada trasera a un sistema, haciendo un bypass de sus sistemas de autenticación.

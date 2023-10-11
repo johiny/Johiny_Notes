@@ -1,1 +1,3 @@
 - Comienzan los cálculos! veamos en que se pueden transformar esos datos!
+- desde cálculos simples como una suma de 2 datos hasta estadísticos complejos como el coeficiente de relación
+- la [[Limpieza de datos]] sigue en esta etapa ya que gracias a transformar los datos podemos ver si algunos de los datos originales que estaban compuestos de otros datos si están bien o tienen algún error volviendo a calcularlos como calcular el precio total de cada producto por sus unidades vendidas a pesar de que esta información ya este en la tabla originalmente la podemos volver a calcular esto nos puede ayudar a comprobar si algo esta mal, o esta bien pero nosotros no estamos enterados de algo.

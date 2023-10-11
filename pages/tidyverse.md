@@ -1,0 +1,7 @@
+- una colección de paquetes de [[R]] especializada para [[Data Science]] que comparten una misma metodología o manera de hacer las cosas.
+- ggplot2: crear increíbles visualizaciones con R
+- tyyr: Limpiar la data nunca fue tan fácil
+- readr: importar diferentes formatos de data
+- dplyr: varias funciones útiles para manipular la data de diferentes maneras
+- En R también existen los [[DataFrames]] pero tidyverse tiene su propia versión mas simplificada y moderna los Tibbles, los cuales tienen varias ventajas como solo mostrar las 10 primeas filas del dataset cuando se imprime para no sobrecargar la consola.
+- Unos de los paquetes por lo que mas se descarga tidyverse es [[ggplot2]] el paquete de visualización mas famoso de R.

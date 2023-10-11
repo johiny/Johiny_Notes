@@ -8,3 +8,5 @@
 	- [[Formatear y ajustar los datos]]: Castear, Ordenar y Filtrar los datos según lo necesites te llevara a verlos de muchas maneras distintas y con ello a muchas respuestas que estabas buscando.
 	- Obtener comentarios de los demás
 	- [[Transformar los datos]]
+	- [[Temporary Tables]] las mejores amigas para trabajar con datos que sabes que son temporales que no quieres guardar y que terminen ocupando espacio.
+- Pero hay algo que junte todo lo anterior en una sola cosa?, si eso es [[R]]

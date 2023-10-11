@@ -1,0 +1,5 @@
+- Los puertos son identificadores pero para quien? para cualquier aplicación o servicio que corra en nuestra computadora, cuando se inicia cualquier cosa en nuestra pc a esto se le asigna un puerto para que puede interconectarse con otra cosas.
+- Los puertos pueden tener 3 estados:
+- open: el puerto esta abierto y en uso, por lo tanto se puede establecer comunicacion con la aplicación/servicio
+- closed: el puerto no esta siendo utilizado por nada y esta cerrado, imposible establecer comunicacion.
+- blocked/filtered: el puerto esta abierto y en uso pero esta bloqueado debido al firewall.

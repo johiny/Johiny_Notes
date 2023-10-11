@@ -1,0 +1,1 @@
+- Estructura fundamental para trabajar con datos, filas y columnas, variables/features en la columnas, observaciones/data en las filas. seguramente las has visto en [[Python]] y [[R]]

@@ -1,0 +1,4 @@
+- La eliminación de datos puede ser una gran medida de seguridad cuando esos datos ya no son útiles para ti pero si podrían serlo para posibles atacantes, pero como se eliminan los datos de un sistema informático?
+- borrándolos y ya?, no porque estos un pueden ser recuperados de la papelera de reciclaje.
+- borrándolos de nuevo de la papelera?, no aunque parezca que han desaparecido los datos almacenados en un disco aun dejan un rastro que con las herramientas forenses adecuadas pueden ser recuperados.
+- Parece haber solo 2 formas de eliminar los datos por completo sobrescribir el almacenamiento varias veces para que cualquier rastro de los antiguos datos desparezca o literalmente destruir el almacenamiento físico.

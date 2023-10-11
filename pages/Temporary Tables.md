@@ -1,0 +1,1 @@
+- una manera sencilla de crear tablas temporales es con la instrucción WITH con la cual se puede crear una tabla temporal de una [[SubQuery]] y con ella hacer queries subsecuentes con el nombre que hayamos especificado como si se tratase de otra tabla cualquiera.

@@ -1,0 +1,2 @@
+- El papa de la [[Puerta Trasera]] este tipo de software comienza a modificar los archivos del propio sistema para poder lograr [[Escalada de Privilegios]] logrando con obtener acceso completo al sistema, pudiendo transferir datos, crear puertas traseras, evadiendo las contramedidas de seguridad.
+- Casi siempre la única solución a un rootkit es el formateo del sistema.

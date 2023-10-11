@@ -1,0 +1,1 @@
+- Advanced Persistent Threat El papa de las infiltraciones, son operaciones avanzadas y ha largo plazo para infiltrarse en un sistema a como de lugar, utilizando cualquier cantidad inimaginable de técnicas conocidas y desconocidas, estas operaciones suelen llevarse a cabo por [[Organizaciones Hacker]], por la gran complejidad y recursos que demandan.

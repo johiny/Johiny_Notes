@@ -1,0 +1,4 @@
+- Esta seguridad se basa en monitorear las [[Redes]] del usuario para detectar cual patrón anormal lo que se consideraría una anomalía y con ello un posible ataque.
+- las herramientas utilizadas en este tipo de seguridad son:
+- [[Honeypot]]
+- [[NetFlow]]

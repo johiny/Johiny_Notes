@@ -1,0 +1,3 @@
+- tecnología que se utiliza para recopilar información sobre los datos que fluyen en una red, tales como:
+- Quien esta en la red
+- Como y cuando un usuario entro a la red

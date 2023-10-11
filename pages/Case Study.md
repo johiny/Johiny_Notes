@@ -1,0 +1,7 @@
+- este es literal cómo resumir todas las fases del análisis de datos [[PPPACA]] para que puedas encontrar una solucion al escenario que te plantean.
+- Una buena presentación/story telling de las conclusiones del case study debería contener lo siguiente:
+- Introducción: Consolidar el contexto y lo que esta pasando esta afectando una parte de este.
+- Problemas: Definir los problemas principales y como se abordaron.
+- Soluciones: Describir claramente las posibles soluciones que encontraste al problema con sus pros y contras.
+- Conclusión: Englobando tu proceso de pensamiento sobre el escenario en particular y el origen lógico de las soluciones, como un resumen de puntos clave.
+- Próximos Pasos: Escoger una solución y explicarle a los stakeholders porque crees que es la mejor y los pasos detallados para aplicarla.

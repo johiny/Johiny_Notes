@@ -1,0 +1,7 @@
+- [[Software]] o [[Hardware]] diseñado para protección en todo tema que tenga que ver con [[Redes]].
+- Routers: aunque a principal función de los routers es conectar varios segmentos de una red, estos también tienen la capacitad de filtrar trafico que puede ser no deseado o peligroso para ese segmento de la red.
+- [[Firewalls]]: que analizan mas a fondo el trafico para detectar posibles comportamientos maliciosos.
+- [[IPS/IDS]] : sistemas que bloquean trafico y ataques maliciosos.
+- VPN: con los vpn se puedan crear túneles cifrado seguros para trasmitir datos a través de una red.
+- Antimalware/Antivirus: los típicos que sirven para muchas cosas.
+- y mucho mas, así como puedes crear cualquier clase de software para resolver algo no es diferente en el mundo de la [[CiberSeguridad]], existen inmensidad de herramientas.

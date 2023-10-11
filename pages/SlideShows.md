@@ -1,0 +1,17 @@
+- las siempre confiables slideshows o diapositivas, las carteleras de la escuela hechas digitales, estas pequeñas amigas te pueden ayudar mucho a la hora de una presentación aqui van algunos consejos de una buena slideshow:
+- Incluye un título, un subtítulo y una fecha
+- Usa una secuencia lógica para tus diapositivas
+- Establece una agenda con un cronograma
+- Limita la cantidad de texto en las diapositivas. Tu audiencia tendría que poder leer por arriba cada texto de tu diapositiva en cinco segundos
+- Empieza con la tarea empresarial. Concéntrate en la tarea empresarial y encuadra la información en el contexto de la tarea empresarial.
+- Establece la hipótesis inicial
+- Muestra las métricas de negocio que has utilizado
+- Usa visualizaciones
+- Presentar el gráfico por su nombre
+- Titula cada gráfico
+- Empieza por la información general y ve hacia lo específico
+- Usa notas del orador para recordar los puntos para conversar
+- Incluye conclusiones clave
+- la presentación muestra contexto antes de mostrar cualquier gráfico o texto
+- La presentación debería mantener una consistencia en su estilo para crear un sentimiento de familiaridad y unidad que toda la presentación hace parte de un todo
+- la presentación debería tener un flow lógico, de como de los datos se llego a las conclusiones clave y de estas a las recomendaciones de accion.

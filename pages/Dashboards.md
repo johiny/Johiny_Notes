@@ -1,1 +1,3 @@
-- Un monitor reactivo o hasta interactivo que se actualiza con data en tiempo real
+- Un monitor estático(data que estaba al momento de la creación de las visualizaciones)/reactivo(data en tiempo real que afecta las visualizaciones) o hasta interactivo  que muestra distintas visualizaciones de uno o varios datasets.
+- Un centro de mando/panel de control donde puedes ver lo que dicen miles datos de una manera sencilla y rápida.
+- ![13 Financial dashboard examples based on real companies | Geckoboard](https://www.geckoboard.com/uploads/Cashflow-dashboard-example.png)

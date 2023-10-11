@@ -1,0 +1,4 @@
+- El sistema que hace posible el internet y conecta el mundo.
+- para poder lograr una conexión exitosa los antiguos científicos computacionales implementaron el sistema de [[Puertos]]
+- Debido a que gran cantidad de datos viajan por ellas y de que es la puerta de conexión entre nuestro equipo local y el resto del mundo, esto las convierte en el mejor punto para iniciar un ataque de [[CiberSeguridad]] por ello los [[Sistemas De Seguridad De Redes]] son muy importantes.
+-

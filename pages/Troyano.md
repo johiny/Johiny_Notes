@@ -1,0 +1,1 @@
+- Como su nombre te lo podría indicar este tipo de malware hace honor a su referencia de un caballo de troya, parece  un software confiable pero en su interior esta el peligro!, casi siempre son la puerta de entrada para que se instale mas malware.

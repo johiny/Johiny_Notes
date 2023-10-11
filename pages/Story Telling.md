@@ -1,0 +1,4 @@
+- Es algo que va de la mano con la [[Data Visualization]] con los datos y sus visualizaciones crearas una narrativa que involucre y sea interesante para publico objetivo y consiguiendo con ello que entiendan el significado detrás de los simples datos crudos.
+- [[Elementos Genéricos De Una Buena Historia]]
+- También como soporte para tu historia puedes utilizar las siempre confiable [[SlideShows]]
+-

@@ -1,0 +1,1 @@
+- Una red infectada de computadoras que buscan infectar otras, como una pandemia zombi!, luego estas están disponibles para cuando se necesita hacer cualquier ataque coordinando como un ataque DoS, esparcir malware, desinformación, spam , etc. Tienes un ejercito de poder computacional a tu disposición para cualquier cosa imagina ese poder.

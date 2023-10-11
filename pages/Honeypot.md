@@ -1,0 +1,1 @@
+- Una trampa basada en el comportamiento conocido del atacante, para hacerlo caer en un ambiente aislado e intentar capturar datos sobre el.

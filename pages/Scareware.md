@@ -1,0 +1,1 @@
+- Software que asusta a la victima con ingeniería social y otras tácticas para que haga una acciona especifica, casi siempre llevandola a instalar otros tipos de [[Malware]]

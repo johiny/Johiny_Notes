@@ -1,0 +1,1 @@
+- Software que se dedica a bloquear un sistema y su informacion a cambio de un pago por medios de encriptación, es como un secuestro literalmente.

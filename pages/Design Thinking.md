@@ -1,0 +1,1 @@
+- Este es un tipo de [[Diseño]] focalizado en el usuario o la audiencia, todo el diseño del productos, visualización o sistema será partir de tener al publico objetivo en mente.

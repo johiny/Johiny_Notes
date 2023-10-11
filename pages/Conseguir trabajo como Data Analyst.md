@@ -1,4 +1,5 @@
 - ir a job sites
 - ir directamente a las paginas de las empresas
 - es bueno tener un gran [[Resume]]
+- es muy común que para las entrevistas te presenten un escenario y a partir de este tengas que hacer una [[Case Study]]
 - TODO Leer [esto](https://www.coursera.org/learn/proceso-de-datos-sucios-a-datos-limpios/supplement/DQgYG/recursos-de-careercon-en-youtube) cuando hayas terminado el google data analytics

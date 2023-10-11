@@ -1,0 +1,6 @@
+- Tener activo un [[Firewall]]
+- Al igual que existe [[Malware]] existe [[Software]] anti-malware como los conocidos antivirus o antispyware, es buena idea usar estos.
+- Mantener los sistemas actualizados para tener los últimos parches de seguridad y no ser susceptible a [[Vulnerabilidades]].
+- Cualquier dispositivo electrónico o sistema debería tener algún tipo de autenticación a pesar de que solo lo utilices tu para ello crear una buena contraseña es fundamental aqui tienes algunos [[Consejos Para Contraseñas]].
+- Proteger la red inalámbrica cambiando los valores preestablecidos de autenticación, te imaginas dejar admin:1234 ?? y habilitar el cifrado de [[WPA2]] que casi siempre viene activado por defecto pero nunca esta de mas revisar unas segunda vez.
+- En los últimos años se ha popularizado la [[Autenticación de 2 Factores]] así que también es buena idea usarlo.

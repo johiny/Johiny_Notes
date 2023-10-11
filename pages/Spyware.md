@@ -1,0 +1,1 @@
+- Como su nombre te lo indicara, un software que recopila datos sobre todo lo que haces y te espía, desde las teclas que oprimes en le teclado hasta fotografías privadas de tu dispositivo.

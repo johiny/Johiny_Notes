@@ -1,0 +1,2 @@
+- el diseño es la planificación de la creación algo tomando en cuenta todos los aspectos involucrados, esto puede verse en inmensidad de campos desde el arte hasta el software.
+- En este momento voy a concentrarme en el [[Diseño De Visualizaciones]]

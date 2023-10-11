@@ -1,0 +1,7 @@
+- una vulnerabilidad es cualquier defecto o debilidad que tenga un sistema, de estas las hay de 2 tipos de [[Hardware]] y [[Software]]
+- Hay algunas vulnerabilidades de software bastante comunes que los programadores siguen cometiendo estas son:
+- Desbordamiento de buffer: o el famoso stack overflow, eso hace que el [[Software]] en uso modifique memoria mas allá de los limites establecidos por lo que podría cambiar o alterar la memoria de otras partes del sistema.
+- Entradas no validas: cuando un programa recibe input ya eso en si puede significar un riesgo ya que atacantes podrían dar inputs maliciosos para de alguna manera alterar el funcionamiento normal de ese [[Software]].
+- [[Condiciones de carrera]]: este concepto fundamental en [[Programación]] como en la [[CiberSeguridad]] es muy importante ya que muchas cosas pueden salir mas si se entra en condiciones de carrera.
+- Practicas de seguridad débiles: Es común entre las aplicaciones usar los mismos sistemas de seguridad, con algoritmos y técnicas ya probados, ya que diseñar estos desde cero puede llevar a crear nuevas vulnerabilidades de seguridad, en resumen si ya en el desarrollo [[Software]] no es necesario volver a reinventar la rueda en [[CiberSeguridad]] menos.
+- Mal control de acceso: pueden surgir muchas vulnerabilidades por una mala gestión de permisos y acceso a un recurso así sea de manera digital o física, desde dejarle credenciales activas a alguien que ya no esta en la empresa hasta olvidarse y dejar la puerta abierta de los servidores un viernes en la noche.

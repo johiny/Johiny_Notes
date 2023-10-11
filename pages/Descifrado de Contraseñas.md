@@ -1,0 +1,7 @@
+- Como sabrás la autenticación por usuario y contraseñas es el sistema mas popular del mundo para mantener un sistema o un grupo de datos seguro, al serlo era seguro que iba a surgir todo un universo de métodos y estrategias para tratar de conseguir la contraseña de una persona u organización, algunos de los mas populares son:
+- Pulverización de contraseña: Esta técnica consiste en utilizar una contraseña común como "1234" en una gran cantidad de cuentas para ver si alguna cuadra, y repetir este proceso iterativamente con distintas contraseñas comunes y con distintas cuentas cada cierto tiempo para evitar saltar los sistemas de seguridad de comportamiento extraño.
+- Ataque de diccionario: Ataque sistemático de todas las palabras de un diccionario o de una lista de posibles contraseñas hacia una cuenta en especifico.
+- Fuerza Bruta: Utilizar todas las posibles combinaciones de letras, números o símbolos hasta que se halle la contraseña correcta, hay varios softwares que ayudan a hacer esto como Ophcrack, L0phtCrack, THC Hydra, RainbowCrack o Medusa.
+- TODO buscar mas informacion sobre los hash y las has rainbow tables esto 
+  Ataque arcoíris: una gran tabla con valores [[Hash]] precalculados que el atacante usa para buscar un coincidencia con otros hash que tenga, para saber con que hash fue creada una contraseña?
+- Interceptación: interceptar la contraseña cifrada o no durante la transmisión de datos entre sistemas.

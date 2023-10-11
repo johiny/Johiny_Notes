@@ -1,1 +1,1 @@
--
+- una de las cosas que entra en la etapa de [[Procesar]] pero también sigue presente en la de [[Analizar]]
