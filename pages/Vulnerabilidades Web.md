@@ -1,0 +1,9 @@
+- Debido a que una web en escancia es un software creado por alguien como tu, estas pueden contener vulnerabilidades que ni siquiera se te pasaron por la cabeza veamoslas.
+- [[XSS]]
+- [[CSRF]]
+- [[Errores expuestos]]
+- [[Ataque Transversal de Directorio]]
+- Hay técnicas básicas para evitar la mayoría de estas vulnerabilidades como lo son:
+- El código solido
+- Todo el input del usuario deber ser verificado y siempre desconfiar primero y preguntar después.
+- Actualización de todas las librerias,dependencias, sistemas operativos y demas software que pueda utilizar la pagina web.

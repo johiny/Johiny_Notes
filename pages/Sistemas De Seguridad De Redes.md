@@ -5,3 +5,4 @@
 - VPN: con los vpn se puedan crear túneles cifrado seguros para trasmitir datos a través de una red.
 - Antimalware/Antivirus: los típicos que sirven para muchas cosas.
 - y mucho mas, así como puedes crear cualquier clase de software para resolver algo no es diferente en el mundo de la [[CiberSeguridad]], existen inmensidad de herramientas.
+- Los [[DNS]] son blancos bastante comunes de ataques, ya que obteniendo el control de estos podrían redirigir a la victima a un sitio malicioso en vez de al legitimo.

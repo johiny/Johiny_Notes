@@ -1,0 +1,5 @@
+- Inyección de código malicioso en una web para perjudicar a sus usuarios, esto puede darse de muchas maneras:
+- Inyección XML: Funciona al inferir el funcionamiento interno de la web con el formato XML para poder llegar a manipular su comportamiento.
+- Inyección SQL: Funciona al inferir el funcionamiento interno de la web y como este utiliza las querys [[SQL]] para poder llegar a manipular su comportamiento y obtener informacion de la pagina web.
+- Inyección DLL: los DLL son archivos externos que contienen una biblioteca de código para hacer cierta accion, un ataque de esta característica podría hacer que se engañe a la web de alguna forma para que llame a un DLL malicioso.
+- Inyección LDAP: ejecución de consultas maliciosas en los servidores LDAP que se encargar de la autenticación de los usuarios.

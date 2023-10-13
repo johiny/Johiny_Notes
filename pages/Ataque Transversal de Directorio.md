@@ -1,0 +1,1 @@
+- Esto ocurre cuando un atacante con cualquier táctica logra acceder al directorio del servidor donde esta el sitio web permitiéndole descargar archivos que deberían estar ocultos para el publico común.

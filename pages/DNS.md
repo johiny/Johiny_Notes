@@ -1,0 +1,1 @@
+- El Domain Name System, el sistema que consiste en traducir las url fáciles de leer para el humano en las verdaderas estrellas que estan detras de la red las direcciones [[IP]]

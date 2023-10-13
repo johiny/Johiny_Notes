@@ -9,3 +9,8 @@
 - [[Descifrado de Contraseñas]]
 - [[APT]]
 - Existen muchos métodos y tácticas pero eso no es todo, en un mundo ideal los atacantes solo usarían estas tácticas para lograr acceder a los sistemas pero lastimosamente los sistemas no son perfectos y estos pueden tener [[Vulnerabilidades]] desconocidas que los atacantes pueden aprovechar diseñando un [[Exploit]] con el cual explotar las esas vulnerabilidades que tenga el sistema.
+- Para poder luchar contra una posible infiltración siempre será bueno saber si esta es interna o externa
+- Alguna vez habrás visto como en una pelicula alguien se infiltra en una instalación camuflándose como si trabajara en esta, o entre la multitud, o siguiendo a un guardia despistado esto realmente existe y se llama **Piggybacking y Tailgating**
+- también existen otras tácticas de infiltración como lo son:
+- [[Phishing]]
+- [[Pharming]]

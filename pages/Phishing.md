@@ -1,0 +1,1 @@
+- Suplantación de identidad que para intentar manipular a una persona a infectarse con malware clásico ataque de [[Ingeniería Social]] que sucede comúnmente por correo, pero otras variaciones como ser victima por mensajes privados de redes sociales, mensajes de aplicaciones de comunicacion como whatsapp o hasta con voz y por llamadas telefónicas lo que se conoce como Vishing.

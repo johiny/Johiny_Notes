@@ -1,0 +1,1 @@
+- Local Area Network, una red de dispositivos conectados por cable o inalámbricamente que están en la msima ubicación geográfica.

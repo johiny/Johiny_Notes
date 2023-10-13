@@ -1,0 +1,1 @@
+- Dejar el típico console.log() con un error expuesto puede llevar a que una atacante entienda como funciona el sistema por dentro y obtener informacion valiosa con la cual puede intentar una ataque contra este.
