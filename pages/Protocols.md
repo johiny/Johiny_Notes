@@ -1,3 +1,6 @@
 - A protocol is only a set of rules standardized to do something, like transporting data.
 - in resumen internet protocols change the behavior of how data is send and received through internet.
-- there is a very important internet protocol that surely you have seen [[HTTP]]
+- Los protocolos son tan importantes para las [[Redes]] que hay muchos de estos para cada tipo de uso además estos no son mutuamente excluyentes ya que viven en las diferentes [[Capas de Red]] lo que permite que varios puedan estar siendo utilizados en una sola request:
+- [[IP]]
+- [[HTTP]]
+- [[TCP]] y [[UDP]]

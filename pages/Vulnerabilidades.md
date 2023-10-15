@@ -7,3 +7,4 @@
 - Mal control de acceso: pueden surgir muchas vulnerabilidades por una mala gestión de permisos y acceso a un recurso así sea de manera digital o física, desde dejarle credenciales activas a alguien que ya no esta en la empresa hasta olvidarse y dejar la puerta abierta de los servidores un viernes en la noche.
 - El departamento de defensa de estados unidos junto con otras instituciones crearon una base de datos publicas con cientos de miles de vulnerabilidades que se actualiza frecuentemente así que es un buen sitio para estar informado el [CVE](https://www.cve.org/)
 - Las webs pueden sufrir muchas vulnerabilidades bastante curiosas veámoslas [[Vulnerabilidades Web]]
+- Una Superficie de ataque es la suma de todas las posibles vulnerabilidades que podría explotar un atacante.

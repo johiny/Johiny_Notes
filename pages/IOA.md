@@ -1,0 +1,1 @@
+- Los IOA (Indicadores de Ataque) es informacion que podría delatar que un ciberataque esta en curso, tales como intentos de explotación, movimientos anómalos a través de la red, etc.

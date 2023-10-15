@@ -1,2 +1,4 @@
-- Simply is a protocol that give an address to every dispositive that is connect to internet, standards ones has a size of 32-bits but nowadays IPv6 reach the size of 128 bits!
+- Simply is a protocol that give an address to every dispositive that is connect to internet to make them able to sent [[Packets]] from a host to another one, standards ones has a size of 32-bits but nowadays IPv6 reach the size of 128 bits!
 - it sent the data in little data packets to make the network more efficiently too, because [[TCP]] already cut it out in multiple parts.
+- Este no fue diseñado teniendo preocupaciones de [[CiberSeguridad]] en mente como rastrear el flujo de lo paquetes o verificar que los paquetes vengan realmente de la dirección de donde dicen que vienen. para hacer frente a estas flaquezas salieron nuevas versiones del protocolo IP, 2 de las mas utilizadas hoy en día son [[IPV4]] y [[IPV6]].
+- como toda tecnología el protocolo IP también tiene sus [[Vulnerabilidades]] veámoslas [[Vulnerabilidades IP]]

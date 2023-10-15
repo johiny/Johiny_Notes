@@ -1,0 +1,9 @@
+- Un [[Vector]] en ciberseguridad es una ruta por la cual un atacante puede iniciar un ataque.
+- algunos de estos son:
+- Correo electrónico
+- Redes Sociales
+- Dispositivos no encriptados
+- Almacenamiento en la nube
+- USB
+- Backups Físicos
+- Débil control de acceso

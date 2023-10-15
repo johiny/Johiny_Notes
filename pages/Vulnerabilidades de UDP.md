@@ -1,0 +1,1 @@
+- **Ataque de saturación de UDP**: donde se utilizan softwares como UDO Unicorn o Low Orbit Ion Cannon, que junto a técnicas de [[Spoofing]] y el protocolo [[ICMP]] envía múltiples peticiones a todos los puertos de la red sobrecargando el servidor.

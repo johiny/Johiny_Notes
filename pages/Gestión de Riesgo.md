@@ -1,0 +1,5 @@
+- Hay cuatro maneras distintas de lidear con los riesgos estas son:
+- Aceptación de riesgo: esto sucede cuanto el costo de las medidas de seguridad para mitigar el riesgo hacia un activo supera el mismo costo del activo, por lo que se decide aceptar el riesgo.
+- Evasión del riesgo: esto significa eliminar el activo y cambiarlo por otra cosa, si no activo tampoco sus posibles riesgos.
+- Reducción del riesgo: Tomar medidas para reducir la exposición o el impacto de riesgo con los costos que esto conlleva.
+- Transferencia del riesgo: la responsabilidad del riesgo se traspasa un tercero que compromete a hacerse cargo por un precio.

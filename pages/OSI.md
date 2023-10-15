@@ -1,0 +1,1 @@
+- Modelo desarrollado en 1980 para la creación de redes, se volvió un marco de referencia para la mayoría de las redes.

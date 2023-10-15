@@ -1,4 +1,5 @@
 - El sistema que hace posible el internet y conecta el mundo.
+- Los pilares fundamentales de estas redes son los [[Protocols]] y las [[Capas de Red]] donde habitan estos.
 - A través de la red viajan [[Packets]]
 - para poder lograr una conexión exitosa los antiguos científicos computacionales implementaron el sistema de [[Puertos]]
 - Muchos sistemas interfieren para que la red sea lo que es uno de los mas importantes es el [[DNS]]
@@ -7,3 +8,4 @@
 - [[The Cloud]] no es mas que una infraestructura gigante de redes una organización podría tener tanto una nube publica con sus diferentes [[Modelos De Servicio]] a la cual se accede mediante la red publica de internet, como tener su propia nube privada con sus redes privadas.
 - El [[Bluetooth]] como sistema de intercomunicación también es susceptible a ataques informáticos.
 - para proteger las redes inalámbricas se han creado varios protocolos de seguridad entre ellos WEP el mas anticuado y WPA2 el mas moderno.
+- que es un [[DHPC]]?

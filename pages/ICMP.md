@@ -1,0 +1,4 @@
+- el Internet Control Message Protocol es un protocolo que se creo para poder transmitir mensajes de error y diagnostico sobre una red especifica, cosas sobre porque no se pudo entregar un mensaje, como si ciertos host o puertos están deshabilitados etc.
+- El comando [[Ping]] que seguramente has visto en varios sitios crea un mensaje con este protocolo para saber si hay conexión con el destino.
+- Los atacantes pueden utilizar estos para hacer reconocimiento de la red y intentar identificar su infraestructura, conocer los host que ellas, los sistemas operativos de estos, y mucho mas.
+- Se debe tener un fuerte control de acceso a este protocolo y también una observación continua para detectar posibles intentos de reconócemelo enemigo.
