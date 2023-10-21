@@ -1,0 +1,2 @@
+- Caracteres visuales que son muy parecidos entre si, pero son totalmente distintos a los ojos de una maquina, como utilizar letras muy parecidas de otros idiomas para suplantar letras de un idioma en especifico, si esto pasa en un dominio la persona terminaría en un sitio maliciosos a pesar de que verifique la url.
+  ![El phishing ha evolucionado: así es el phishing basado en homoglifos |  Computer Hoy](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/phishing-ha-evolucionado-phishing-basado-homoglifos.jpg?tf=3840x)

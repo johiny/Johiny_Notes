@@ -1,0 +1,5 @@
+- Como podrás imaginar si un atacante logra envenenar un DNS y cambiar la resolución de un dominio esto es peligrosísimo por ello existen sistemas para detectar estos cambios hacia destinos maliciosos pero también los atacantes intentan evitarlos con varias técnicas de ataque sigiloso.
+  Flujo Rápido: Las [[IP]] maliciosas intentando enlazarse a un dominio cambian constantemente y rápidamente para intentar no ser detectadas.
+- Double IP Flux: los atacantes cambian rápidamente el [[Hostname]] y el [[Servidor de nombres autorizados]], para hacer mas dificil encontrar el origen del ataque.
+- [[Túnel DNS]]
+- Como podrás a ver notado un atacante no es tonto y al igual como si estuviera intentando infiltrarse en un edificio en la vida real, este utilizara diferentes mascaras, fachadas, patrones y demas para intentar pasar desapercibido.

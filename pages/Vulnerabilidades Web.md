@@ -3,7 +3,11 @@
 - [[CSRF]]
 - [[Errores expuestos]]
 - [[Ataque Transversal de Directorio]]
+- [[Iframes Maliciosos]]
+- [[Redireccionamiento Http]]
+- [[Ataques DNS Domain Shadowing]]
 - Hay técnicas básicas para evitar la mayoría de estas vulnerabilidades como lo son:
 - El código solido
 - Todo el input del usuario deber ser verificado y siempre desconfiar primero y preguntar después.
 - Actualización de todas las librerias,dependencias, sistemas operativos y demas software que pueda utilizar la pagina web.
+- Una gran lista es la [Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/) que puedes verificar en cualquier momento.

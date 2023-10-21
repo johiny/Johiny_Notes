@@ -1,0 +1,4 @@
+- Que quiere decir resolución abierta?, un [[DNS]] puede vivir tanto dentro como fuera de una organización como un servicio externo y publico como GoogleDNS, estos tipos de DNS pueden sufrir varios ataques.
+- Envenenamiento de cache DNS: donde se envían [[RR]] a una [[DNS Resolver]] para contaminar su cache y terminar exponiendo informacion o hasta redirigiendo usuario a sitios maliciosos.
+- Amplificación ([[DDoS]]) DNS: un atacante puede enviar múltiples solicitudes de resolución de dominio a varios DNS con origen de una [[IP]] suplantada lo que ocasionara el inicio de una oleada de respuesta hacia la IP de la victima desencadenando un ataque DDoS.
+- Ataque DoS contra el DNS: ataque de saturación para agotar los recursos del DNS.

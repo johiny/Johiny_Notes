@@ -1,0 +1,1 @@
+- Aunque los redireccionamientos son una parte común de la web y se hacen todo el tiempo, un atacante podría utilizar esto para redireccionar a la persona a un sitio malicioso.

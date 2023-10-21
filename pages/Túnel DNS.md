@@ -1,0 +1,1 @@
+- Un atacante puede camuflar datos maliciosos como si fuera trafico DNS!, para entender bien esto tendrías que profundizar mas en como funciona [[DNS]] pero por ahora te bastara con saber que esto puede ocurrir y que debes estar pendiente de las consultas DNS mas largas de lo normal y de varios de sus campos como TXT, MX, SRV, NULL, A o CNAME.

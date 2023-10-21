@@ -1,0 +1,1 @@
+- Dirección del Router por donde pasa todo el trafico de una red hacia otras redes.

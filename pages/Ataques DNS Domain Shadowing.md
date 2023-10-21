@@ -1,0 +1,1 @@
+- Recolectar credenciales de dominio para crear subdominios que redirigen a sitios maliciosos.
