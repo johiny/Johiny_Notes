@@ -1,1 +1,5 @@
 - Hermanos de los [[Virus]] se replican a si mismos para infectar y dañar la mayor cantidad de computadoras posibles, ataca principalmente las vulnerabilidades de red, este tipo de malware ha sido especialmente famoso por participar en ataques devastadores a través de la historia.
+- estos pueden ser mitigados de varias maneras
+- red segmentada para que el contagio no sea tan rápido
+- darle un parche rápido de actualización a los sistemas que no han sido infectados
+- Cuarentena, donde se identifica las maquinas infectadas para bloquearlas, desconectarlas para iniciar un tratamiento de descontaminación o eliminarlas (resetear/formatear),

@@ -1,0 +1,5 @@
+- Alarmas para detectar una cantidad anormal de solicitudes [[ICMP]] por segundo
+- autenticaccion
+- cifrado de paquetes
+- herramientas anti-sniffers
+- Firewall e IPS

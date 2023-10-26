@@ -1,0 +1,1 @@
+- Desde simples logs del sistema en archivos de texto plano hasta sistemas mas completos como [[Syslog]] o [[Journalctl]]

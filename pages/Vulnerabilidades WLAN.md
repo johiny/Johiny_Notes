@@ -1,0 +1,3 @@
+- Una WLAN esta abierta a toda persona en un área determinada por lo que es mas fácil de atacar que una red cableada.
+- Rogue AP: un punto de acceso de de este tipo es un punto de acceso de un tercero que se conecta a otros o aun punto central para poder ofrecer conexión en un área donde antes no llegaban las radiofrecuencias, esto es peligrosos ya que como el tercero tienen control sobre el AP puede  lanzar ataques [[MITM Y MITMO]] pudiendo expiar paquetes, direcciones mac, etc.
+- Veamos como mitigar estas vulnerabilidades [[Mitigación de ataque WLAN]]
