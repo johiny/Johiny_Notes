@@ -1,0 +1,2 @@
+- el visor de eventos es un software con el cual puedes ver el registro de los eventos que han sucedido en el sistema, estos están divididos en 2 los registros de Windows y los registros de las demas aplicaciones del sistema.
+- Cada registro cuenta con un nivel tipo: información, advertencia, error o crítico, marca de tiempo, origen  y un identificador de tipo. Con estas características podemos filtrar los eventos y concentrarnos solo en los que nos importan.

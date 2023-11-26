@@ -1,0 +1,1 @@
+- Operating System / Sistema operativo es el [[Software]] mas cercano al hardware si no contamos al [[Firmware]] el núcleo de que podamos usar una computadora.

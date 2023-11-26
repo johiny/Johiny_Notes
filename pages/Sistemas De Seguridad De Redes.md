@@ -1,9 +1,13 @@
 - [[Software]] o [[Hardware]] diseñado para protección en todo tema que tenga que ver con [[Redes]].
 - Routers: aunque a principal función de los routers es conectar varios segmentos de una red, estos también tienen la capacitad de filtrar trafico que puede ser no deseado o peligroso para ese segmento de la red.
-- [[Firewalls]]: que analizan mas a fondo el trafico para detectar posibles comportamientos maliciosos.
+- [[Tipos De Firewalls]]: que analizan mas a fondo el trafico para detectar posibles comportamientos maliciosos.
 - [[IPS/IDS]] : sistemas que bloquean trafico y ataques maliciosos.
+- [[ACL]]
+- [[NetFlow]]
+- Uff seguramente con tantos dispositivos y sistemas te sientes abrumado cómo voy a manjar todo esto?, conectando una pantalla a cada uno? no que estupidez, conectándose por ssh a sus terminales? podría ser pero terrible tener que hacerlo con cada uno cada vez que tengas que hacer un cambio!, ahí es cuando entra el [[SNMP]].
 - VPN: con los vpn se puedan crear túneles cifrado seguros para trasmitir datos a través de una red.
 - Antimalware/Antivirus: los típicos que sirven para muchas cosas.
+- [[Herramientas Avanzadas De Seguridad De Redes]]
 - y mucho mas, así como puedes crear cualquier clase de software para resolver algo no es diferente en el mundo de la [[CiberSeguridad]], existen inmensidad de herramientas.
 - Los [[DNS]] son blancos bastante comunes de ataques, ya que obteniendo el control de estos podrían redirigir a la victima a un sitio malicioso en vez de al legitimo.
 - Las redes son tan importantes en el mundo actual que muchas organizaciones, empresas y toda la sociedad gira entorno a estas para que te hagas una idea ira este mapa que trata de rastrear los ataques cibernéticos detectados en  tiempo real [CyberMap Kaspersky](https://cybermap.kaspersky.com/) si detectados imagina todos los que no se detectan.

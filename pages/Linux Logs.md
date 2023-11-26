@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1700675079738_0.png){:height 1018, :width 808}
+- [[journalctl]] es un software para poder ver logs de diferentes procesos de una manera sencilla

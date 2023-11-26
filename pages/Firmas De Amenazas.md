@@ -1,0 +1,1 @@
+- Estas firmas son patrones específicos que los sistemas de seguridad utilizan para identificar y detectar amenazas cibernéticas, como secuencias de bytes, comportamientos de red o características de archivos.

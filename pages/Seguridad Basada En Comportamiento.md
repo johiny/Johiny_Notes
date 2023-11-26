@@ -2,3 +2,6 @@
 - las herramientas utilizadas en este tipo de seguridad son:
 - [[Honeypot]]
 - [[NetFlow]]
+- [[EDR]]
+- [[DLP]]
+- [[NGFW]]

@@ -1,0 +1,8 @@
+- ext2
+- ext3
+- ext4
+- NFS
+- CDFG
+- HFS
+- APFS
+- MBR

@@ -1,5 +1,3 @@
-- Estos se pueden instalar tanto en a nivel local/usuario como a nivel de red/grupo:
-- También existen de muchos tipos diferentes aqui algunos:
 - capa de red: filtra el trafico según la direcciones IP de origen y destino.
 - capa de transporte: filtra el trafico según los puertos y estados de conexión de origen y destino.
 - capa de aplicación: filtra el trafico según la aplicación origen/destino

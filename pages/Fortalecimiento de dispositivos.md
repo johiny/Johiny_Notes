@@ -1,0 +1,11 @@
+- fortalecer la seguridad de un dispositivo, por lo tanto aumentando la dificultad de que esta sea atacado exitosamente.
+- estas son algunas practicas comunes para fortalecer a un dispositivo:
+  - Garantizar la seguridad física
+  - Minimizar la cantidad de paquetes instalados
+  - Deshabilitar servicios que no se utilizan
+  - Utilizar SSH y deshabilitar el inicio de sesión en cuentas raíz a través de SSH
+  - Mantener el sistema actualizado
+  - Deshabilitar la detección automática de USB
+  - Aplicar contraseñas seguras
+  - Forzar cambios de contraseña periódicamente
+  - Impedir que los usuarios vuelvan a utilizar contraseñas antiguas

@@ -13,6 +13,7 @@
 - Bueno entonces los hackers tienen 700 mil herramientas para jodernos??! entonces que hacemos??!, utilizar el conocimiento que tenemos ya que con solo un poco de [[Protección Básica]] muchas de esas herramientas quedan inutilizables.
 - También muchos ataques pueden ser prevenidos si se obtienen sus [[IOC]] o los [[IOA]] estas son compartidos gracias al [[Intercambio de Información de Ciberseguridad]].
 - Una parte angular de la ciberseguridad es la [[Monitorización]]
+- [[Linux]] es el mejor amigo de la ciberseguridad y el dulce hogar de los [[Hackers]]
 - Suele considerarse al usuario como el eslabón mas débil de la ciberseguridad
 - Hoy en día la guerra cibernética en dispositivos electrónicos comunes como las computadoras, laptops o móviles esta bastante equilibrada ya que hay herramientas y talento en ambos bandos, el problema viene con los dispositivos [[IoT]] ya que muchos de estos a diferencia de otros dispositivos no se actualizan! y siguen con el software original con los que salieron al mercado, lo que los deja con posibles [[Vulnerabilidades]] que pueden surgir con cada día que pasa y conllevando a brechas de seguridad peligrosas. Bastante interesante este sector de la ciberseguridad puedes saber más aqui [Shodan](https://www.shodan.io/).
 - Para que el mundo funcione hay que transmitir datos, si todos los dispositivos estuvieran aislados si serian mas seguros pero también serian menos útiles, por eso una gran cantidad de ataques se da por medio de las [[Redes]] y por es importante que todo dato que viaje a través de estas este encriptado por ello la [[Encriptación]] es una piedra angular de la ciberseguridad.
@@ -21,8 +22,10 @@
 - Es muy común tanto para atacantes como defensores hacer un análisis de [[Puertos]] porque? ya que estos puertos están expuestos hacia otras redes, por lo tanto un análisis un atacante podría saber que programas/ servicios y demas se están ejecutando en el pc de una una posible victima.
 - Una de las formas mas populares de ciberseguridad hoy en día es la [[Seguridad Basada En Comportamiento]]
 - En un mundo idílico seria factible implementar cuanta medida de seguridad haya, pero seamos sincero todo tiene un precio por ello tendremos que invertir inteligentemente teniendo una [[Gestión de Riesgo]] eficiente.
+- También es muy importante crear una [[Política De Seguridad]] que vaya evolucionando con el tiempo y según las necesidades del momento.
 - Cada institución/empresa debería tener un libro de estrategias de seguridad, como un manual de que hacer para prevenir y en caso de una violación de seguridad.
 - Sistemas como [[SIEM]] o [[DPL]] pueden ayudar a evitar o mitigar las violaciones de seguridad.
 - La única manera de que los protectores pueden detener a los atacantes es teniendo el mismo conocimiento de estos, por que podrías utilizar ese conocimiento para el bien y el mal lamenta lente como te podrás imaginar muchas de las cosas males son ilegales y podrían meterte en problemas.
+- Otra cosa que puede hacer un analista  de ciberseguridad es el [[Fortalecimiento de dispositivos]]
 - La ciberseguridad lo afecta todo hasta el [[Machine Learning]] imagina un modelo con datos contaminados tanto en su entrenamiento o en inferencia podría llegar a resultados nefastos, como en la decisiones que toma un coche autónomo.
-- Las [[Certificaciones De Ciberseguridad]] parecen ser una excelente opcion para obtener empleo y mostrar tus habilidades.
+- Las [[Certificaciones De Ciberseguridad]] parecen ser una excelente opción para obtener empleo y mostrar tus habilidades.

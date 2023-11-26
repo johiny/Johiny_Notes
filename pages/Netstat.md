@@ -1,0 +1,2 @@
+- el comando netstat al igual que [[Nmap]] puede permitirnos ver los puertos abiertos en el sistema pero con un poco mas de info, como ver su pid y las direcciones de origen y destino y como ya vimos en [[Sistemas De Seguridad De Redes]] los puertos son una de las principales puntos de entrada de un ataque.
+- con este se puede llegar a detectar malware que este entablando conexión con un servidor remoto.

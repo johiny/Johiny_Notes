@@ -1,0 +1,2 @@
+- Una infraestructura de red cuenta con muchos dispositivos de seguridad y administración tales como:
+- [[Firewall]]

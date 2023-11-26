@@ -1,0 +1,1 @@
+- Una policita de seguridad es un documento/conjunto de reglas, objetivos y procedimientos para mantener un sistema seguro, esta tiene que estar en constante evolución debido a que los atacantes no se acuestan a dormir y no lo vuelven a intentar si algo no funciona, siempre surgen nuevas amenazas.

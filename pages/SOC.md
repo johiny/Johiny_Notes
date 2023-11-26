@@ -1,0 +1,7 @@
+- un Security Operation Center, o si lo prefieres la cueva comfy del hacker en esta estan concentradas todas la herramientas para proteger un sistema.
+- Analizadores de paquetes de [[Redes]]
+- herramientas de análisis de [[Malware]]
+- [[IPS/IDS]]
+- [[Firewall]]
+- Administradores de registros como [[Syslog]]
+- ETC

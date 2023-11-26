@@ -1,0 +1,1 @@
+- el comando mas importante de Linux en cuento a permisos, estos [[Permisos de Archivo]] se pueden modificar de manera octal algo muy curioso e ingenioso.

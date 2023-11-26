@@ -1,1 +1,3 @@
 - Desde simples logs del sistema en archivos de texto plano hasta sistemas mas completos como [[Syslog]] o [[Journalctl]]
+- Es muy importante que un analista revise los registros periódicamente para detectar cualquier comportamiento extraño en la computadora o red.
+- analizar estos registros tanto en [[Linux]], [[Windows]] o cualquier OS es una técnica que te puede ayudar a detectar amenazas de forma temprana y evitar dolores de cabeza fututos..

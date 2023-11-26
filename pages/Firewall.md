@@ -1,1 +1,16 @@
 - un firewall es un sistema de seguridad tanto de [[Software]] como de [[Hardware]] que controla y vigila el tráfico red saliente y entrante para detectar posibles anomalías o amenazas.
+- algunas propiedades comunes de estos son:
+- resisten ataques de red
+- es el punto mas común de unión entre redes internas y externas.
+- aplican políticas de control de acceso
+- algunas de sus mayores ventajas son:
+- Evitar exposición de datos privados
+- Sanear flujo de protocolos
+- Bloquear datos maliciosos
+- Simplificar la administración de seguridad de la red.
+- algunas de sus limitaciones:
+- debido a su alto valor en la seguridad si se confía en este la mayor parte de la seguridad y este esta mal configurado puede ser fatal.
+- Puede reducirse la velocidad de la red
+- Se puede lograr llegar a engañar haciendo pasar trafico malicioso por trafico normal.
+- Hay varias [[Arquitecturas De Firewall]] pero todas comparten el mismo objetivo de proteger la red de ataques.
+- Además de arquitectura estos también están divididos en varios [[Tipos De Firewalls]]

@@ -1,0 +1,4 @@
+- hay una inmensidad de comandos en Linux ya que estos son el corazón de este, a su vez no solo te quedas con los comandos que vienen por defecto sino al final del día estos comandos son [[Software]] que hacen una tarea en particular y todo app que instales en Linux terminara pudiendo ser accedida mediante un comando también.
+- Siempre podrás consultar documentación sobre cualquier comando con el comando man
+- aqui tienes una cheat sheet con los comandos mas comunes
+  ![No hay texto alternativo para esta imagen](https://media.licdn.com/dms/image/D5622AQFzf7LIQSFPnw/feedshare-shrink_1280/0/1687064502859?e=1702512000&v=beta&t=Ix9uNTi0dI8M_rilrTbBkEj-O2OLyKC9OplSpAeMB04)

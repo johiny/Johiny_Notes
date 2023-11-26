@@ -1,0 +1,2 @@
+- un file system especifica como se usara los dispositivos de almacenamiento físicos cada uno tiene sus propias convenciones y maneras de organizar, almacenar, eliminar o recuperar datos.
+- Algunos muy populares son la familia ext de [[Linux]], la familia fat de [[Windows]], y últimamente NTFS desarrollado por Microsoft pero utilizado en varios sistemas.

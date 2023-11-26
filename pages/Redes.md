@@ -3,9 +3,10 @@
 - A través de la red viajan [[Packets]]
 - para poder lograr una conexión exitosa los antiguos científicos computacionales implementaron el sistema de [[Puertos]]
 - Muchos sistemas interfieren para que la red sea lo que es uno de los mas importantes es el [[DNS]]
-- Debido a que gran cantidad de datos viajan por ellas y de que es la puerta de conexión entre nuestro equipo local y el resto del mundo, esto las convierte en el mejor punto para iniciar un ataque de [[CiberSeguridad]] por ello los [[Sistemas De Seguridad De Redes]] son muy importantes.
+- Debido a que gran cantidad de datos viajan por ellas y de que es la puerta de conexión entre nuestro equipo local y el resto del mundo, esto las convierte en el mejor punto para iniciar un ataque de [[CiberSeguridad]] por ello los [[Sistemas De Seguridad De Redes]] son muy importantes e implementarlos en una buena [[Infraestructura De Red]] es primordial.
 - Hay diferentes tipos de redes una de estas es la famosa [[LAN]] y [[WLAN]]
 - [[The Cloud]] no es mas que una infraestructura gigante de redes una organización podría tener tanto una nube publica con sus diferentes [[Modelos De Servicio]] a la cual se accede mediante la red publica de internet, como tener su propia nube privada con sus redes privadas.
 - El [[Bluetooth]] como sistema de intercomunicación también es susceptible a ataques informáticos.
 - para proteger las redes inalámbricas se han creado varios protocolos de seguridad entre ellos WEP el mas anticuado y WPA2 el mas moderno.
 - que es un [[DHPC]]?
+- Aunque [[Telnet]] no es un software seguro puede ser muy útil para entablar conexiones rápidas y hacer comprobaciones sobre algun otro puerto.

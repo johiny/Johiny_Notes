@@ -1,3 +1,12 @@
 - tecnología que se utiliza para recopilar información sobre los datos que fluyen en una red, tales como:
 - Quien esta en la red
 - Como y cuando un usuario entro a la red
+- Estadísticas sobre los paquetes que circulan en la red.
+- Este intenta clasificar los paquetes de red de acuerdo a los siguientes encabezados:
+	- Dirección IP de origen
+	- Dirección IP de destino
+	- Número de puerto de origen
+	- Número de puerto de destino
+	- Tipo de protocolo de capa 3
+	- Marca de tipo de servicio (ToS)
+	- Interfaz lógica de entrada

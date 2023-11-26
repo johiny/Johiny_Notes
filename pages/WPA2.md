@@ -1,3 +1,3 @@
 - el protocolo de seguridad [[WLAN]] estándar hoy en día, este tiene 2 tipos.
-- **Personal**: Se utiliza una PSK (clave pre compartida) y los usuarios se autentican con esta en el [[AP]]
+- **Personal**: Se utiliza una PSK (clave pre compartida) con un encriptacion [[AES]] ya que permite saber si se han alterado los bits encriptados y los usuarios se autentican con esta en el [[AP]]
 - **Empresa**: Se necesita un servidor de autenticación adicional normalmente llamado (RADIUS) el cual utiliza un protocolo llamado (EAP), un sistema mas complejo pero mas seguro también.

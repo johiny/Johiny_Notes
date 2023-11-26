@@ -1,0 +1,18 @@
+- 20/21 FTP
+- 22 SSH
+- 23 Telnet
+- 25 SMTP
+- 50/51 IPsec
+- 53 DNS
+- 67/68 BOOTP
+- 69 TFTP
+- 80 HTTP
+- 110 POP3
+- 111 Mapa de puertos
+- 119 NNTP
+- 123 NTP
+- 137-139 NetBIOS
+- 143 IMAP
+- 161 SNMP
+- 389 LDAP
+- 443 SSL
